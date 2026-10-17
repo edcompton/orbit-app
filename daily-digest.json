@@ -1,0 +1,776 @@
+{
+  "generatedAt": "2026-10-17T11:42:26.862Z",
+  "horizonDays": 7,
+  "aiUsed": true,
+  "site": "https://edcompton.github.io/orbit-app/",
+  "health": {
+    "ranAt": "2026-10-17T11:38:51.540Z",
+    "totalSources": 23,
+    "failing": [],
+    "workerAgeDays": 0.34,
+    "worker": [
+      {
+        "source": "munimadrid",
+        "lastOk": "2026-10-17T03:30:10.768Z",
+        "items": 4337,
+        "fresh": true
+      },
+      {
+        "source": "atrapalo",
+        "lastOk": "2026-10-17T03:30:10.768Z",
+        "items": 314,
+        "fresh": true
+      },
+      {
+        "source": "galleries",
+        "lastOk": "2026-10-17T03:30:10.768Z",
+        "items": 4,
+        "fresh": true
+      },
+      {
+        "source": "kadampa",
+        "lastOk": "2026-10-17T03:30:10.768Z",
+        "items": 200,
+        "fresh": true
+      },
+      {
+        "source": "evolutiondance",
+        "lastOk": "2026-10-17T03:30:10.768Z",
+        "items": 24,
+        "fresh": true
+      }
+    ]
+  },
+  "weather": [
+    {
+      "date": "2026-10-17",
+      "minC": 14.5,
+      "maxC": 20.2,
+      "precipMm": 2.9,
+      "precipProbMax": 38,
+      "windMaxKmh": 17.1,
+      "summary": "thunderstorm, 15–20°C"
+    },
+    {
+      "date": "2026-10-18",
+      "minC": 9.7,
+      "maxC": 14.5,
+      "precipMm": 12,
+      "precipProbMax": 83,
+      "windMaxKmh": 21,
+      "summary": "thunderstorm, 10–15°C, 83% rain"
+    },
+    {
+      "date": "2026-10-19",
+      "minC": 9,
+      "maxC": 12.5,
+      "precipMm": 3.6,
+      "precipProbMax": 58,
+      "windMaxKmh": 15.3,
+      "summary": "light rain, 9–13°C, 58% rain"
+    },
+    {
+      "date": "2026-10-20",
+      "minC": 8.5,
+      "maxC": 16.5,
+      "precipMm": 0.2,
+      "precipProbMax": 33,
+      "windMaxKmh": 13.6,
+      "summary": "overcast, 9–17°C"
+    },
+    {
+      "date": "2026-10-21",
+      "minC": 10.6,
+      "maxC": 17.5,
+      "precipMm": 0,
+      "precipProbMax": 8,
+      "windMaxKmh": 15.5,
+      "summary": "overcast, 11–18°C"
+    },
+    {
+      "date": "2026-10-22",
+      "minC": 7.1,
+      "maxC": 17.6,
+      "precipMm": 0,
+      "precipProbMax": 2,
+      "windMaxKmh": 7.1,
+      "summary": "overcast, 7–18°C"
+    },
+    {
+      "date": "2026-10-23",
+      "minC": 9.2,
+      "maxC": 17.9,
+      "precipMm": 0,
+      "precipProbMax": 4,
+      "windMaxKmh": 6.2,
+      "summary": "overcast, 9–18°C"
+    }
+  ],
+  "bigInCity": [
+    {
+      "day": "2026-10-17",
+      "line": "Dani Fernández, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-17",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Dani Fernández",
+          "detail": "La Insurrección",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/dani-fern-ndez-la-insurrecci-n/17-10-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-18",
+      "line": "Real Madrid – Sevilla, 21:00 at Estadio Santiago Bernabéu (traffic) · Real Madrid – Surne Bilbao, 12:30 at Movistar Arena (crowds) · Movistar Estudiantes – Palencia Baloncesto, 18:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-18",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Real Madrid – Sevilla",
+          "detail": "La Liga",
+          "venue": "Estadio Santiago Bernabéu",
+          "url": "https://www.realmadrid.com/es-ES/calendario",
+          "why": "traffic",
+          "size": 78000
+        },
+        {
+          "day": "2026-10-18",
+          "time": "12:30",
+          "kind": "basketball",
+          "title": "Real Madrid – Surne Bilbao",
+          "detail": "Jornada 4 Liga Endesa 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-surne-bilbao-jornada-4-liga-endesa-26-27/18-10-2026/12:30",
+          "why": "crowds",
+          "size": 9000
+        },
+        {
+          "day": "2026-10-18",
+          "time": "18:30",
+          "kind": "basketball",
+          "title": "Movistar Estudiantes – Palencia Baloncesto",
+          "detail": "Jornada 4 Primera FEB 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/movistar-estudiantes-vs-palencia-baloncesto-jornada-4-primera-feb-26-27/18-10-2026/18:30",
+          "why": "crowds",
+          "size": 6000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-20",
+      "line": "Deep Purple, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-20",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Deep Purple",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/deep-purple/20-10-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-21",
+      "line": "Real Madrid – RB Leipzig, 21:00 at Estadio Santiago Bernabéu (traffic) · Trueno 2026, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-21",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Real Madrid – RB Leipzig",
+          "detail": "Champions League",
+          "venue": "Estadio Santiago Bernabéu",
+          "url": "https://www.realmadrid.com/es-ES/calendario",
+          "why": "traffic",
+          "size": 78000
+        },
+        {
+          "day": "2026-10-21",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Trueno 2026",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/trueno-2026/21-10-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-22",
+      "line": "Fontaines D.C., 20:45 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-22",
+          "time": "20:45",
+          "kind": "concert",
+          "title": "Fontaines D.C.",
+          "detail": "D.C, EU TOUR 2026",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/fontaines-d-c-d-c-eu-tour-2026/22-10-2026/20:45",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-23",
+      "line": "Dani Fernández, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-23",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Dani Fernández",
+          "detail": "La Insurrección",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/dani-fern-ndez-la-insurrecci-n/23-10-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    }
+  ],
+  "bigSources": [
+    {
+      "name": "Movistar Arena",
+      "url": "https://www.movistararena.es/programacion/?venue=arena",
+      "ok": true,
+      "fetchedAt": "2026-10-17T03:43:46.812Z"
+    },
+    {
+      "name": "Atlético de Madrid",
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+      "ok": true,
+      "fetchedAt": "2026-10-17T03:43:46.812Z"
+    },
+    {
+      "name": "Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/calendario",
+      "ok": true,
+      "fetchedAt": "2026-10-17T03:43:46.812Z"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "url": "https://www.rayovallecano.es/partidos",
+      "ok": true,
+      "fetchedAt": "2026-10-17T03:43:46.812Z"
+    }
+  ],
+  "picks": [
+    {
+      "id": "meetup:316467271",
+      "title": "Fontaines D.C. Movistar Arena",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "irish post-punk band",
+      "start": "2026-10-22T19:30:00+02:00",
+      "end": "2026-10-22T21:30:00+02:00",
+      "venue": "Movistar Arena",
+      "area": null,
+      "url": "https://www.meetup.com/madrid-indie/events/316467271/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Fontaines D.C. with new album at Movistar Arena — Irish post-punk band you'd actually want.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.meetup.com/madrid-indie/events/316467271/"
+      }
+    },
+    {
+      "id": "esmadrid:109709",
+      "title": "Argentina",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "flamenco singer",
+      "start": "2026-10-17T20:30:00",
+      "end": null,
+      "venue": "Teatros del Canal",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/argentina-teatros-canal",
+      "minutesFromHome": 18,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Argentina at Teatros del Canal for Suma Flamenca — top-tier flamenco artist in major festival slot.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/argentina-teatros-canal",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 9
+    },
+    {
+      "id": "esmadrid:108312",
+      "title": "The Mirror",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": "contemporary circus with live music",
+      "start": "2026-10-22T00:00:00",
+      "end": "2026-10-31T00:00:00",
+      "venue": "Teatro Circo Price",
+      "area": "Madrid",
+      "url": "https://www.teatrocircoprice.es/programacion/gravity-other-myths",
+      "minutesFromHome": 33,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Australian contemporary circus at Circo Price — opens this week, body and risk, no language barrier.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "price"
+        ],
+        "fixed": [
+          "link"
+        ],
+        "page": "https://www.teatrocircoprice.es/programacion/gravity-other-myths"
+      },
+      "priceFrom": 18
+    },
+    {
+      "id": "instagram:DeeZ2ASI_Dz:0",
+      "title": "The Sleeveens",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "band",
+      "start": "2026-10-19T00:00:00",
+      "end": "2026-10-19T23:59:00",
+      "venue": "Wurlitzer Ballroom",
+      "area": null,
+      "url": "https://www.instagram.com/p/DeeZ2ASI_Dz/",
+      "minutesFromHome": 17,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "The Sleeveens at Wurlitzer Ballroom, band reached out directly to the venue.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "ateneo:65133",
+      "title": "JOAQUÍN CHACÓN – DREAMLAND",
+      "titleEn": "",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-10-21T20:00:00",
+      "end": "2026-10-22T20:00:00",
+      "venue": "Ateneo de Madrid",
+      "area": "Centro",
+      "url": "https://ateneodemadrid.com/evento/joaquin-chacon-dreamland/",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Joaquín Chacón Dreamland at Ateneo: experimental jazz guitar trio in a historic literary society's intimate hall.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://ateneodemadrid.com/evento/joaquin-chacon-dreamland/"
+      }
+    },
+    {
+      "id": "galleries:thyssen:The Freudian Universe of Dalí",
+      "title": "The Freudian Universe of Dalí",
+      "titleEn": "",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-10-20T00:00:00",
+      "end": "2027-01-24T23:59:00",
+      "venue": "Museo Thyssen-Bornemisza",
+      "area": "Paseo del Prado",
+      "url": "https://www.museothyssen.org/en/exhibitions/freudian-universe-dali",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Dalí and Freud exhibition opening at Thyssen-Bornemisza — major show at a top museum.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.museothyssen.org/en/exhibitions/freudian-universe-dali"
+      }
+    },
+    {
+      "id": "instagram:Dehl3wXuoO4:1",
+      "title": "STEEN RASMUSSEN QUINTETO FT LEO MINAX",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-10-17T20:00:00",
+      "end": null,
+      "venue": "Café Central",
+      "area": null,
+      "url": "https://www.instagram.com/p/Dehl3wXuoO4/",
+      "minutesFromHome": 24,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Steen Rasmussen quintet with Leo Minax at Café Central, Madrid's jazz institution.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/Dehl3wXuoO4/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "matadero:2026-10-22T16:00:00+02:00:Exposición gráfica 'Súpe",
+      "title": "Exposición gráfica 'Súper Letras'",
+      "titleEn": "Graphic Exhibition 'Super Letters'",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-10-22T00:00:00",
+      "end": "2026-12-31T23:59:59+01:00",
+      "venue": "Matadero Madrid · Espina",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/programacion/exposicion-grafica-super-letras",
+      "minutesFromHome": 28,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Experimental typography at Matadero — opens this week, graphic design pushed into art territory.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.mataderomadrid.org/programacion/exposicion-grafica-super-letras"
+      },
+      "priceFrom": 0
+    },
+    {
+      "id": "galleries:thyssen:Mauritshuis & Thyssen-Bornemisza: master",
+      "title": "Mauritshuis & Thyssen-Bornemisza: masterpieces",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "17th century dutch masterpieces",
+      "start": "2026-10-09T00:00:00",
+      "end": "2027-01-10T23:59:00",
+      "venue": "Museo Thyssen-Bornemisza",
+      "area": "Paseo del Prado",
+      "url": "https://www.museothyssen.org/en/exhibitions/thyssen-bornemisza-mauritshuis",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Mauritshuis masterpieces on loan at Thyssen: a rare exchange bringing Hague treasures to Madrid for three months.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.museothyssen.org/en/exhibitions/thyssen-bornemisza-mauritshuis"
+      }
+    },
+    {
+      "id": "atrapalo:4952589",
+      "title": "Gag Movie - Yllana",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": null,
+      "start": "2026-10-23T17:00:00",
+      "end": "2026-12-19T23:59:00",
+      "venue": "Teatro Serrano Madrid",
+      "area": "Madrid",
+      "url": "https://www.atrapalo.com/entradas/gag-movie-yllana_e4952589/",
+      "minutesFromHome": 7,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Yllana's physical comedy without dialogue — cinema spoofs you can follow without Spanish.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [
+          "time"
+        ],
+        "page": "https://www.atrapalo.com/entradas/gag-movie-yllana_e4952589/",
+        "why": "only a listing (atrapalo.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 18
+    },
+    {
+      "id": "instagram:DefCY2CyfOJ:1",
+      "title": "Henri Herbert & The Fury",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-10-22T00:00:00",
+      "end": "2026-10-22T23:59:00",
+      "venue": "Wurlitzer Ballroom",
+      "area": null,
+      "url": "https://www.instagram.com/p/DefCY2CyfOJ/",
+      "minutesFromHome": 17,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Henri Herbert & The Fury at Wurlitzer Ballroom: London soul-funk band in Madrid's intimate standing-room gig space.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "teatroscanal:99813",
+      "title": "COMPAÑÍA MANUEL LIÑÁN",
+      "titleEn": "MANUEL LIÑÁN COMPANY",
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": null,
+      "start": "2026-10-21T20:00:00",
+      "end": "2026-10-24T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/manuel-linan-llamame-lorca/",
+      "minutesFromHome": 18,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Manuel Liñán flamenco at Teatros del Canal — opens this week, physical storytelling.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [
+          "time",
+          "price"
+        ],
+        "page": "https://www.teatroscanal.com/espectaculo/manuel-linan-llamame-lorca/"
+      },
+      "priceFrom": 9,
+      "priceTo": 35
+    },
+    {
+      "id": "meetup:317007868",
+      "title": "V.O. Brit Film + 🇪🇸 🇬🇧 Language Exchange over a drink🍷🍻 afterwards 😉",
+      "titleEn": null,
+      "type": "meetup",
+      "kind": "Social",
+      "subtitle": null,
+      "start": "2026-10-17T20:15:00",
+      "end": "2026-10-17T23:00:00+02:00",
+      "venue": "Cines Renoir Princesa",
+      "area": null,
+      "url": "https://www.meetup.com/madrid-international/events/317007868/",
+      "minutesFromHome": 29,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": "2026-10-17T23:59:00",
+      "bookSignal": "Registration required",
+      "english": true,
+      "note": "V.O. British film Bad Apples at Renoir then bilingual drinks: comedy screening plus English-Spanish language exchange after.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [
+          "time",
+          "price"
+        ],
+        "page": "https://www.meetup.com/madrid-international/events/317007868/"
+      },
+      "priceFrom": 0
+    },
+    {
+      "id": "instagram:DehYDZpgGV-:0",
+      "title": "Zoomorfo",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "maya sculpture reinterpretation",
+      "start": "2026-10-15T00:00:00",
+      "end": "2026-10-19T23:59:00",
+      "venue": "albarran.bourdais",
+      "area": null,
+      "url": "https://www.instagram.com/p/DehYDZpgGV-/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Simón Vega Zoomorfo closing: Salvadoran artist reimagining Mayan monumental sculpture at albarran.bourdais gallery, final days.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "munimadrid:b0409cc93e7bf910",
+      "title": "Damien Jalet en Centro Danza Matadero",
+      "titleEn": "Damien Jalet at Centro Danza Matadero",
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": null,
+      "start": "2026-09-05T00:00:00",
+      "end": "2027-01-23T00:00:00",
+      "venue": "Centro Danza Matadero - CDM",
+      "area": "Arganzuela",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Damien-Jalet-en-Centro-Danza-Matadero/?vgnextfmt=default&vgnextoid=b0409cc93e7bf910VgnVCM100000891ecb1aRCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD",
+      "minutesFromHome": 29,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Damien Jalet cine-dance cycle at Matadero: one of the world's top choreographers blurring performance and film.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Damien-Jalet-en-Centro-Danza-Matadero/?vgnextfmt=default&vgnextoid=b0409cc93e7bf910VgnVCM100000891ecb1aRCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD"
+      }
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "meetup:317007868",
+      "title": "V.O. Brit Film + 🇪🇸 🇬🇧 Language Exchange over a drink🍷🍻 afterwards 😉",
+      "titleEn": null,
+      "type": "meetup",
+      "kind": "Social",
+      "subtitle": null,
+      "start": "2026-10-17T20:15:00",
+      "end": "2026-10-17T23:00:00+02:00",
+      "venue": "Cines Renoir Princesa",
+      "area": null,
+      "url": "https://www.meetup.com/madrid-international/events/317007868/",
+      "minutesFromHome": 29,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": "2026-10-17T23:59:00",
+      "bookSignal": "Registration required",
+      "english": true,
+      "note": "V.O. British film Bad Apples at Renoir then bilingual drinks: comedy screening plus English-Spanish language exchange after.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [
+          "time",
+          "price"
+        ],
+        "page": "https://www.meetup.com/madrid-international/events/317007868/"
+      },
+      "priceFrom": 0
+    }
+  ],
+  "clusters": []
+}
