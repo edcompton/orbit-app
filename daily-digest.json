@@ -1,0 +1,758 @@
+{
+  "generatedAt": "2026-10-24T17:12:41.164Z",
+  "horizonDays": 7,
+  "aiUsed": true,
+  "site": "https://edcompton.github.io/orbit-app/",
+  "health": {
+    "ranAt": "2026-10-24T17:08:02.484Z",
+    "totalSources": 23,
+    "failing": [],
+    "workerAgeDays": 0.57,
+    "worker": [
+      {
+        "source": "munimadrid",
+        "lastOk": "2026-10-24T03:30:13.539Z",
+        "items": 4001,
+        "fresh": true
+      },
+      {
+        "source": "atrapalo",
+        "lastOk": "2026-10-24T03:30:13.539Z",
+        "items": 316,
+        "fresh": true
+      },
+      {
+        "source": "galleries",
+        "lastOk": "2026-10-24T03:30:13.539Z",
+        "items": 4,
+        "fresh": true
+      },
+      {
+        "source": "kadampa",
+        "lastOk": "2026-10-24T03:30:13.539Z",
+        "items": 200,
+        "fresh": true
+      },
+      {
+        "source": "evolutiondance",
+        "lastOk": "2026-10-24T03:30:13.539Z",
+        "items": 24,
+        "fresh": true
+      }
+    ]
+  },
+  "weather": [
+    {
+      "date": "2026-10-24",
+      "minC": 4.7,
+      "maxC": 18.5,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 9.9,
+      "summary": "overcast, 5–19°C"
+    },
+    {
+      "date": "2026-10-25",
+      "minC": 8.3,
+      "maxC": 20.6,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 3.3,
+      "summary": "overcast, 8–21°C"
+    },
+    {
+      "date": "2026-10-26",
+      "minC": 6.2,
+      "maxC": 22,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 5.5,
+      "summary": "overcast, 6–22°C"
+    },
+    {
+      "date": "2026-10-27",
+      "minC": 7.4,
+      "maxC": 19.7,
+      "precipMm": 0,
+      "precipProbMax": 3,
+      "windMaxKmh": 4.7,
+      "summary": "overcast, 7–20°C"
+    },
+    {
+      "date": "2026-10-28",
+      "minC": 8.7,
+      "maxC": 20.8,
+      "precipMm": 0,
+      "precipProbMax": 3,
+      "windMaxKmh": 9.7,
+      "summary": "clear, 9–21°C"
+    },
+    {
+      "date": "2026-10-29",
+      "minC": 7.9,
+      "maxC": 20.3,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 4.7,
+      "summary": "partly cloudy, 8–20°C"
+    },
+    {
+      "date": "2026-10-30",
+      "minC": 8.6,
+      "maxC": 20.9,
+      "precipMm": 0,
+      "precipProbMax": 2,
+      "windMaxKmh": 4,
+      "summary": "overcast, 9–21°C"
+    }
+  ],
+  "bigInCity": [
+    {
+      "day": "2026-10-24",
+      "line": "Atlético de Madrid – RC Deportivo, 21:00 at Riyadh Air Metropolitano (traffic) · CADENA 100 Por Ellas 2026, 20:00 at Movistar Arena (crowds) · Rayo Vallecano – Elche CF, 14:00 at Estadio de Vallecas (crowds)",
+      "events": [
+        {
+          "day": "2026-10-24",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Atlético de Madrid – RC Deportivo",
+          "detail": "LaLiga",
+          "venue": "Riyadh Air Metropolitano",
+          "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+          "why": "traffic",
+          "size": 70000
+        },
+        {
+          "day": "2026-10-24",
+          "time": "20:00",
+          "kind": "concert",
+          "title": "CADENA 100 Por Ellas 2026",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/cadena-100-por-ellas-2026/24-10-2026/20:00",
+          "why": "crowds",
+          "size": 17000
+        },
+        {
+          "day": "2026-10-24",
+          "time": "14:00",
+          "kind": "football",
+          "title": "Rayo Vallecano – Elche CF",
+          "detail": "LALIGA EA SPORTS",
+          "venue": "Estadio de Vallecas",
+          "url": "https://www.rayovallecano.es/partidos",
+          "why": "crowds",
+          "size": 14000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-26",
+      "line": "Jungle, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-26",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Jungle",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/jungle/26-10-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-27",
+      "line": "Morat, 20:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-27",
+          "time": "20:00",
+          "kind": "concert",
+          "title": "Morat",
+          "detail": "YEM World Tour",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/morat-yem-world-tour/27-10-2026/20:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-28",
+      "line": "Morat, 20:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-28",
+          "time": "20:00",
+          "kind": "concert",
+          "title": "Morat",
+          "detail": "YEM World Tour",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/morat-yem-world-tour/28-10-2026/20:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-29",
+      "line": "Real Madrid – Fenerbahce Istanbul, 20:45 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-29",
+          "time": "20:45",
+          "kind": "basketball",
+          "title": "Real Madrid – Fenerbahce Istanbul",
+          "detail": "Jornada 9 Euroliga 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-fenerbahce-istanbul-jornada-9-euroliga-26-27/29-10-2026/20:45",
+          "why": "crowds",
+          "size": 12000
+        }
+      ]
+    },
+    {
+      "day": "2026-10-30",
+      "line": "Morat, 20:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-10-30",
+          "time": "20:00",
+          "kind": "concert",
+          "title": "Morat",
+          "detail": "YEM World Tour",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/morat-yem-world-tour/30-10-2026/20:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    }
+  ],
+  "bigSources": [
+    {
+      "name": "Movistar Arena",
+      "url": "https://www.movistararena.es/programacion/?venue=arena",
+      "ok": true,
+      "fetchedAt": "2026-10-24T03:45:11.602Z"
+    },
+    {
+      "name": "Atlético de Madrid",
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+      "ok": true,
+      "fetchedAt": "2026-10-24T03:45:11.602Z"
+    },
+    {
+      "name": "Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/calendario",
+      "ok": true,
+      "fetchedAt": "2026-10-24T03:45:11.602Z"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "url": "https://www.rayovallecano.es/partidos",
+      "ok": true,
+      "fetchedAt": "2026-10-24T03:45:11.602Z"
+    }
+  ],
+  "picks": [
+    {
+      "id": "esmadrid:109750",
+      "title": "Ibrahim Maalouf & The Trumpets of Michel-Ange Vol. 2",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-10-29T20:30:00",
+      "end": null,
+      "venue": "La Riviera",
+      "area": "Madrid",
+      "url": "https://festivaldejazzmadrid.com/actividad/ibrahim-maalouf-the-trumpets-of-michel-ange-vol-2/",
+      "minutesFromHome": 35,
+      "priceBand": "20-50",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Franco-Lebanese trumpet virtuoso Ibrahim Maalouf at La Riviera with The Trumpets of Michel-Ange Vol. 2",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "price"
+        ],
+        "fixed": [
+          "link"
+        ],
+        "page": "https://festivaldejazzmadrid.com/actividad/ibrahim-maalouf-the-trumpets-of-michel-ange-vol-2/"
+      },
+      "priceFrom": 28
+    },
+    {
+      "id": "madforswing:10073626",
+      "title": "Gumbo Jam",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-10-29T22:15:00",
+      "end": "2026-10-30T00:15:00",
+      "venue": "Big Mama Ballroom",
+      "area": null,
+      "url": "https://www.madforswing.es/evento/gumbo-jam-11/2026-10-29/",
+      "minutesFromHome": 31,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Jazz jam session at Big Mama Ballroom — live, loose, the room where Madrid's players actually turn up.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "its site's robots.txt doesn't allow reading the page"
+      },
+      "priceFrom": 7
+    },
+    {
+      "id": "madriddestino:centrocentro:musica-le-quan-ninh",
+      "title": "Lê Quan Ninh",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-10-24T19:30:00",
+      "end": null,
+      "venue": "CentroCentro · Auditorio",
+      "area": "Retiro",
+      "url": "https://www.centrocentro.org/musica/le-quan-ninh",
+      "minutesFromHome": 23,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "French percussionist treats orchestral bass drum as melody instrument — VANG festival, CentroCentro, happening now.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.centrocentro.org/musica/le-quan-ninh"
+      },
+      "priceFrom": 10
+    },
+    {
+      "id": "munimadrid:0d75c7b4fc1bf910:2026-10-24",
+      "title": "L&ecirc; Quan Ninh",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "solo percussion performance",
+      "start": "2026-10-24T19:30:00",
+      "end": null,
+      "venue": "CentroCentro",
+      "area": null,
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Le-Quan-Ninh/?vgnextfmt=default&vgnextoid=0d75c7b4fc1bf910VgnVCM200000f921e388RCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD",
+      "minutesFromHome": 23,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "French percussionist treats orchestral bass drum as melody instrument — VANG festival, CentroCentro, happening now.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [
+          "price"
+        ],
+        "page": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Le-Quan-Ninh/?vgnextfmt=default&vgnextoid=0d75c7b4fc1bf910VgnVCM200000f921e388RCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD"
+      },
+      "priceFrom": 10
+    },
+    {
+      "id": "madriddestino:condeduque:actividades-dj-plead",
+      "title": "DJ Plead",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "bass and lebanese percussion dj",
+      "start": "2026-10-30T20:00:00",
+      "end": null,
+      "venue": "Conde Duque · Auditorio",
+      "area": "Centro",
+      "url": "https://www.condeduquemadrid.es/actividades/dj-plead",
+      "minutesFromHome": 26,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Melbourne producer bridging club culture and Lebanese heritage at Conde Duque.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.condeduquemadrid.es/actividades/dj-plead"
+      },
+      "priceFrom": 18
+    },
+    {
+      "id": "matadero:2026-10-24:Lali Ayguadé Company",
+      "title": "Lali Ayguadé Company",
+      "titleEn": "",
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": null,
+      "start": "2026-10-24T20:00:00",
+      "end": null,
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/en/schedule/lali-ayguade-company",
+      "minutesFromHome": 28,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Lali Ayguadé's physical-theatre piece at Matadero — movement-led, body-language storytelling without dialogue",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.mataderomadrid.org/en/schedule/lali-ayguade-company"
+      },
+      "priceFrom": 18,
+      "priceTo": 22
+    },
+    {
+      "id": "esmadrid:102140",
+      "title": "Jungle",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "british electronic trio",
+      "start": "2026-10-26T21:00:00",
+      "end": null,
+      "venue": "Movistar Arena",
+      "area": "Madrid",
+      "url": "https://www.movistararena.es/programacion/evento/jungle",
+      "minutesFromHome": 16,
+      "priceBand": "50+",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "UK electro-pop trio Jungle touring their new album at Movistar Arena — only Spanish date.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time"
+        ],
+        "fixed": [
+          "price",
+          "link"
+        ],
+        "page": "https://www.movistararena.es/programacion/evento/jungle"
+      },
+      "priceFrom": 55
+    },
+    {
+      "id": "meetup:316740810",
+      "title": "🙋🏼‍♀️20-45 años🏰Medieval Buitrago de Lozoya🍂Fácil💪🏽",
+      "titleEn": "Ages 20-45 Medieval Buitrago de Lozoya Easy",
+      "type": "hike",
+      "kind": "Hike",
+      "subtitle": null,
+      "start": "2026-10-31T07:40:00+01:00",
+      "end": "2026-10-31T19:40:00+01:00",
+      "venue": "Cafeteria Intercambiador",
+      "area": null,
+      "url": "https://www.meetup.com/thehikers_madrid/events/316740810/",
+      "minutesFromHome": 8,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Day hike to medieval walled Buitrago, train-accessible Sierra town, social group his age."
+    },
+    {
+      "id": "esmadrid:109372",
+      "title": "moNo nO aWare (NOW)",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": "contemporary dance show",
+      "start": "2026-10-29T19:00:00",
+      "end": "2026-10-30T00:00:00",
+      "venue": "Teatros del Canal",
+      "area": "Madrid",
+      "url": "https://www.teatroscanal.com/espectaculo/begona-quinones-veronica-garzon/",
+      "minutesFromHome": 18,
+      "priceBand": "20-50",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Contemporary dance double bill by Begoña Quiñones and Verónica Garzón at Canal's black box",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time"
+        ],
+        "fixed": [
+          "price",
+          "link"
+        ],
+        "page": "https://www.teatroscanal.com/espectaculo/begona-quinones-veronica-garzon/"
+      },
+      "priceFrom": 20
+    },
+    {
+      "id": "esmadrid:109676",
+      "title": "Umbrales",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "geometric sculpture and installation show",
+      "start": "2026-10-01T00:00:00",
+      "end": "2026-10-25T00:00:00",
+      "venue": "Centro Cultural Casa de Vacas",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/umbrales-centro-cultural-casa-vacas",
+      "minutesFromHome": 19,
+      "priceBand": "free",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "William Gaber's multidisciplinary exhibition closing — fifty works at Casa de Vacas in Retiro",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/umbrales-centro-cultural-casa-vacas",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 0
+    },
+    {
+      "id": "instagram:De1rhjYDYBG:0",
+      "title": "Ozzy & Black Sabbath: Back to the Beginning",
+      "titleEn": null,
+      "type": "film",
+      "kind": "Film",
+      "subtitle": null,
+      "start": "2026-10-28T21:00:00",
+      "end": null,
+      "venue": "Cine Estudio CBA",
+      "area": null,
+      "url": "https://www.instagram.com/p/De1rhjYDYBG/",
+      "minutesFromHome": null,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Ozzy and Black Sabbath documentary at Círculo de Bellas Artes — late screening.",
+      "occurrences": [
+        "2026-10-28T21:00:00",
+        "2026-10-29T21:00:00"
+      ],
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/De1rhjYDYBG/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "citylife-events:212894",
+      "title": "Meet & Cook #2 – Learn to Cook the Classics",
+      "titleEn": null,
+      "type": "meetup",
+      "kind": "Social",
+      "subtitle": null,
+      "start": "2026-10-30T19:30:00",
+      "end": "2026-10-30T21:00:00",
+      "venue": "Apetit’ oh!",
+      "area": null,
+      "url": "https://www.citylifemadrid.com/event/meet-cook-2-learn-to-cook-the-classics/",
+      "minutesFromHome": null,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Cook classic dishes in English-language group cooking class.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [
+          "price"
+        ],
+        "page": "https://www.citylifemadrid.com/event/meet-cook-2-learn-to-cook-the-classics/"
+      },
+      "priceFrom": 49
+    },
+    {
+      "id": "munimadrid:f29c648fe8761a10:2026-10-25",
+      "title": "Altar de muertos",
+      "titleEn": "Day of the Dead altar",
+      "type": "film",
+      "kind": "Film",
+      "subtitle": null,
+      "start": "2026-10-24T11:00:00",
+      "end": null,
+      "venue": "CentroCentro",
+      "area": null,
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Altar-de-muertos/?vgnextfmt=default&vgnextoid=f29c648fe8761a10VgnVCM200000f921e388RCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD",
+      "minutesFromHome": 23,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Day of the Dead altar installation at CentroCentro — cultural visual, no Spanish needed.",
+      "occurrences": [
+        "2026-10-24T11:00:00",
+        "2026-10-25T11:00:00",
+        "2026-10-27T11:00:00",
+        "2026-10-28T11:00:00",
+        "2026-10-29T11:00:00",
+        "2026-10-30T11:00:00",
+        "2026-10-31T11:00:00"
+      ],
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [
+          "time"
+        ],
+        "page": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Altar-de-muertos/?vgnextfmt=default&vgnextoid=f29c648fe8761a10VgnVCM200000f921e388RCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD"
+      }
+    },
+    {
+      "id": "madriddestino:centrocentro:exposicion-el-instante-es-semilla-viva",
+      "title": "El instante es semilla viva",
+      "titleEn": "Instant is living seed",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-10-28T00:00:00",
+      "end": "2027-04-18T23:59:00",
+      "venue": "CentroCentro · Planta 3",
+      "area": "Retiro",
+      "url": "https://www.centrocentro.org/exposicion/el-instante-es-semilla-viva",
+      "minutesFromHome": 23,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Opening day of new CentroCentro show at the Palacio de Cibeles",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.centrocentro.org/exposicion/el-instante-es-semilla-viva"
+      },
+      "priceFrom": 0,
+      "closedDays": [
+        1
+      ]
+    },
+    {
+      "id": "madriddestino:centrocentro:exposicion-elena-jimenez",
+      "title": "Elena Jiménez",
+      "titleEn": "",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-10-28T00:00:00",
+      "end": "2027-04-18T23:59:00",
+      "venue": "CentroCentro · Planta 3",
+      "area": "Retiro",
+      "url": "https://www.centrocentro.org/exposicion/elena-jimenez",
+      "minutesFromHome": 23,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Elena Jiménez opening at CentroCentro alongside two other debuts",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.centrocentro.org/exposicion/elena-jimenez"
+      },
+      "priceFrom": 0,
+      "closedDays": [
+        1
+      ]
+    }
+  ],
+  "deadlines": [],
+  "clusters": []
+}
