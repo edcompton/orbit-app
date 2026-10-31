@@ -1,0 +1,769 @@
+{
+  "generatedAt": "2026-10-31T13:45:24.670Z",
+  "horizonDays": 7,
+  "aiUsed": true,
+  "site": "https://edcompton.github.io/orbit-app/",
+  "health": {
+    "ranAt": "2026-10-31T13:41:05.709Z",
+    "totalSources": 23,
+    "failing": [
+      {
+        "source": "voluntarios",
+        "error": "no activity cards (page shape changed)",
+        "items": 1,
+        "lastSeen": "2026-10-28T14:02:38.308Z"
+      }
+    ],
+    "workerAgeDays": 0.38,
+    "worker": [
+      {
+        "source": "munimadrid",
+        "lastOk": "2026-10-31T04:34:56.107Z",
+        "items": 4284,
+        "fresh": true
+      },
+      {
+        "source": "atrapalo",
+        "lastOk": "2026-10-31T04:34:56.107Z",
+        "items": 313,
+        "fresh": true
+      },
+      {
+        "source": "galleries",
+        "lastOk": "2026-10-31T04:34:56.107Z",
+        "items": 4,
+        "fresh": true
+      },
+      {
+        "source": "kadampa",
+        "lastOk": "2026-10-31T04:34:56.107Z",
+        "items": 200,
+        "fresh": true
+      },
+      {
+        "source": "evolutiondance",
+        "lastOk": "2026-10-31T04:34:56.107Z",
+        "items": 24,
+        "fresh": true
+      }
+    ]
+  },
+  "weather": [
+    {
+      "date": "2026-10-31",
+      "minC": 8.4,
+      "maxC": 20.5,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 6.2,
+      "summary": "partly cloudy, 8–21°C"
+    },
+    {
+      "date": "2026-11-01",
+      "minC": 8.6,
+      "maxC": 19.7,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 7.9,
+      "summary": "partly cloudy, 9–20°C"
+    },
+    {
+      "date": "2026-11-02",
+      "minC": 5.2,
+      "maxC": 18,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 9.2,
+      "summary": "fog, 5–18°C"
+    },
+    {
+      "date": "2026-11-03",
+      "minC": 6.5,
+      "maxC": 16.5,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 8.6,
+      "summary": "overcast, 7–17°C"
+    },
+    {
+      "date": "2026-11-04",
+      "minC": 4.9,
+      "maxC": 16.8,
+      "precipMm": 0,
+      "precipProbMax": 8,
+      "windMaxKmh": 11.8,
+      "summary": "overcast, 5–17°C"
+    },
+    {
+      "date": "2026-11-05",
+      "minC": 4.6,
+      "maxC": 15.8,
+      "precipMm": 0,
+      "precipProbMax": 8,
+      "windMaxKmh": 7.4,
+      "summary": "partly cloudy, 5–16°C"
+    },
+    {
+      "date": "2026-11-06",
+      "minC": 4.7,
+      "maxC": 15.4,
+      "precipMm": 0,
+      "precipProbMax": 15,
+      "windMaxKmh": 4.3,
+      "summary": "overcast, 5–15°C"
+    }
+  ],
+  "bigInCity": [
+    {
+      "day": "2026-10-31",
+      "line": "Morat, 20:00 at Movistar Arena (crowds) · Rayo Vallecano – Celta, 16:15 at Estadio de Vallecas (crowds)",
+      "events": [
+        {
+          "day": "2026-10-31",
+          "time": "20:00",
+          "kind": "concert",
+          "title": "Morat",
+          "detail": "YEM World Tour",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/morat-yem-world-tour/31-10-2026/20:00",
+          "why": "crowds",
+          "size": 17000
+        },
+        {
+          "day": "2026-10-31",
+          "time": "16:15",
+          "kind": "football",
+          "title": "Rayo Vallecano – Celta",
+          "detail": "LALIGA EA SPORTS",
+          "venue": "Estadio de Vallecas",
+          "url": "https://www.rayovallecano.es/partidos",
+          "why": "crowds",
+          "size": 14000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-01",
+      "line": "Real Madrid – Recoletas Salud SPB, 12:30 at Movistar Arena (crowds) · Movistar Estudiantes – Gran Canaria, 18:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-01",
+          "time": "12:30",
+          "kind": "basketball",
+          "title": "Real Madrid – Recoletas Salud SPB",
+          "detail": "Jornada 6 Liga Endesa 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-recoletas-salud-spb-jornada-6-liga-endesa-26-27/1-11-2026/12:30",
+          "why": "crowds",
+          "size": 9000
+        },
+        {
+          "day": "2026-11-01",
+          "time": "18:30",
+          "kind": "basketball",
+          "title": "Movistar Estudiantes – Gran Canaria",
+          "detail": "Jornada 6 Primera FEB 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/movistar-estudiantes-vs-gran-canaria-jornada-6-primera-feb-26-27/1-11-2026/18:30",
+          "why": "crowds",
+          "size": 6000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-03",
+      "line": "Atlético de Madrid – Bayern Munich, 21:00 at Riyadh Air Metropolitano (traffic)",
+      "events": [
+        {
+          "day": "2026-11-03",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Atlético de Madrid – Bayern Munich",
+          "detail": "UEFA Champions League",
+          "venue": "Riyadh Air Metropolitano",
+          "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+          "why": "traffic",
+          "size": 70000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-04",
+      "line": "Real Madrid – Panathinaikos Aktor Athens, 20:45 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-04",
+          "time": "20:45",
+          "kind": "basketball",
+          "title": "Real Madrid – Panathinaikos Aktor Athens",
+          "detail": "Jornada 10 Euroliga 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-panathinaikos-aktor-athens-jornada-10-euroliga-26-27/4-11-2026/20:45",
+          "why": "crowds",
+          "size": 12000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-05",
+      "line": "Pitbull, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-05",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Pitbull",
+          "detail": "I'M BACK",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/pitbull-i-m-back/5-11-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-06",
+      "line": "Duran Duran, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-06",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Duran Duran",
+          "detail": "Free To Love Tour",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/duran-duran-free-to-love-tour/6-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    }
+  ],
+  "bigSources": [
+    {
+      "name": "Movistar Arena",
+      "url": "https://www.movistararena.es/programacion/?venue=arena",
+      "ok": true,
+      "fetchedAt": "2026-10-31T04:54:16.471Z"
+    },
+    {
+      "name": "Atlético de Madrid",
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+      "ok": true,
+      "fetchedAt": "2026-10-31T04:54:16.471Z"
+    },
+    {
+      "name": "Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/calendario",
+      "ok": true,
+      "fetchedAt": "2026-10-31T04:54:16.471Z"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "url": "https://www.rayovallecano.es/partidos",
+      "ok": true,
+      "fetchedAt": "2026-10-31T04:54:16.471Z"
+    }
+  ],
+  "picks": [
+    {
+      "id": "instagram:DfHduSato3Y:0",
+      "title": "TŌ YŌ",
+      "titleEn": "",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "japanese psychedelic rock band",
+      "start": "2026-11-02T21:00:00",
+      "end": null,
+      "venue": "Wurlitzer Ballroom",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfHduSato3Y/",
+      "minutesFromHome": 17,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Japanese psych band TŌ YŌ at Wurlitzer for Mad Psych Fest, new album Yardang.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:DfIKMdvkfm0:0",
+      "title": "Mondo Afterparty",
+      "titleEn": null,
+      "type": "nightlife",
+      "kind": "Club night",
+      "subtitle": "techno afterparty",
+      "start": "2026-10-31T00:00:00",
+      "end": null,
+      "venue": "Sala But",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfC69O8xwPk/",
+      "minutesFromHome": 17,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Jeff Mills extended set plus The Hacker afterparty — a proper techno Halloween weekender at But.",
+      "occurrences": [
+        "2026-10-31T00:00:00",
+        "2026-11-01T00:00:00"
+      ],
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "teatroscanal:99531",
+      "title": "José Ángel Capel",
+      "titleEn": "",
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": "flamenco dance with smoke effects",
+      "start": "2026-11-03T18:30:00",
+      "end": "2026-11-04T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/jose-angel-capel/",
+      "minutesFromHome": 18,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "José Ángel Capel's flamenco-dance exploration of canto origins at Teatros del Canal, closing.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.teatroscanal.com/espectaculo/jose-angel-capel/"
+      },
+      "priceFrom": 20
+    },
+    {
+      "id": "instagram:DfFJTI8NgQ8:0",
+      "title": "Dirty Sound Magnet",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "swiss rock band",
+      "start": "2026-11-04T21:00:00",
+      "end": null,
+      "venue": "Sala El Sol",
+      "area": null,
+      "url": "https://salaelsol.com/eventos/dirty-sound-magnet/",
+      "minutesFromHome": 17,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Swiss psychedelic-rock trio at El Sol, one of Madrid's classic small gig rooms.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time"
+        ],
+        "fixed": [
+          "price",
+          "link"
+        ],
+        "page": "https://salaelsol.com/eventos/dirty-sound-magnet/"
+      },
+      "priceFrom": 18.7
+    },
+    {
+      "id": "instagram:DfCw3KfIPIB:0",
+      "title": "PRODUCTO + Espíritu Escalera",
+      "titleEn": "",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-06T21:00:00",
+      "end": null,
+      "venue": "Wurlitzer Ballroom",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfCw3KfIPIB/",
+      "minutesFromHome": 17,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Barcelona synth-punk duo's first Madrid show, small room near home.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/DfCw3KfIPIB/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "esmadrid:109810",
+      "title": "Bendiciones desde abajo. Dima Srouji",
+      "titleEn": "",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "palestinian glass art installation",
+      "start": "2026-11-05T00:00:00",
+      "end": "2027-01-10T00:00:00",
+      "venue": "La Casa Encendida",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/bendiciones-abajo-dima-srouji-casa-encendida",
+      "minutesFromHome": 32,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Palestinian architect-artist's intervention opening at La Casa Encendida, third of trilogy.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/bendiciones-abajo-dima-srouji-casa-encendida",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "closedDays": [
+        1
+      ]
+    },
+    {
+      "id": "esmadrid:105617",
+      "title": "BID26. Bienal de Diseño Iberoamericano",
+      "titleEn": "IDB26. Ibero-American Design Biennial",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-02T00:00:00",
+      "end": "2026-11-07T00:00:00",
+      "venue": "Central de diseño (Matadero)",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/bid-bienal-diseno-iberoamericano-central-diseno-matadero",
+      "minutesFromHome": 29,
+      "priceBand": "free",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Ibero-American Design Biennial opening at Matadero's Central de Diseño.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/bid-bienal-diseno-iberoamericano-central-diseno-matadero",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 0
+    },
+    {
+      "id": "matadero:2026-11-02T00:00:00+01:00:'BID26: Ibero-American D",
+      "title": "'BID26: Ibero-American Design Biennial' Meeting Space",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-02T00:00:00",
+      "end": "2026-11-07T23:59:59+01:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/en/schedule/bid26-ibero-american-design-biennial-meeting-space",
+      "minutesFromHome": 28,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": "Registration required",
+      "english": true,
+      "note": "Ibero-American Design Biennial opening week at Matadero — platform connecting regional design practice.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.mataderomadrid.org/en/schedule/bid26-ibero-american-design-biennial-meeting-space"
+      }
+    },
+    {
+      "id": "esmadrid:99373",
+      "title": "Kid Francescoli",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "electro pop synth musician",
+      "start": "2026-11-05T21:00:00",
+      "end": null,
+      "venue": "Sala But",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/kid-francescoli-sala-but",
+      "minutesFromHome": 17,
+      "priceBand": "20-50",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "French electronic-pop artist presenting new album at intimate Sala But.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [
+          "price"
+        ],
+        "page": "https://www.esmadrid.com/agenda/kid-francescoli-sala-but",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 32.4
+    },
+    {
+      "id": "instagram:DfFK5Q5DpPJ:0",
+      "title": "Ulf Wakenius Organ Trio",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-10-30T20:00:00",
+      "end": "2026-10-31T23:59:00",
+      "venue": "Café Central Ateneo",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfFK5Q5DpPJ/",
+      "minutesFromHome": 24,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Swedish guitar virtuoso's organ trio at Café Central.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "matadero:2026-11-03T19:00:00+01:00:Capítulo XXXV: Sonidos d",
+      "title": "Capítulo XXXV: Sonidos danzantes II (flamenco a contratiempo)",
+      "titleEn": "Chapter XXXV: Dancing Sounds II (flamenco off-beat)",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-03T19:00:00+01:00",
+      "end": "2026-11-03T19:00:00+01:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/programacion/capitulo-xxxv-sonidos-danzantes-ii-flamenco-contratiempo",
+      "minutesFromHome": 28,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Flamenco off-beat session at Matadero with Gatadans festival collaboration.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [
+          "price"
+        ],
+        "page": "https://www.mataderomadrid.org/programacion/capitulo-xxxv-sonidos-danzantes-ii-flamenco-contratiempo"
+      },
+      "priceFrom": 4
+    },
+    {
+      "id": "instagram:Ddd9uXUnD8h:3",
+      "title": "Futuros de la IA",
+      "titleEn": "Futures of AI",
+      "type": "class",
+      "kind": "Class",
+      "subtitle": null,
+      "start": "2026-11-03T18:30:00",
+      "end": null,
+      "venue": "Medialab Matadero",
+      "area": null,
+      "url": "https://www.instagram.com/p/Ddd9uXUnD8h/",
+      "minutesFromHome": 29,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "AI futures reading group at Medialab — how artificial intelligence transforms work and democracy.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:De_mnsDDnNz:0",
+      "title": "XXI Festival de SumaFlamanca 2026",
+      "titleEn": "21st SumaFlamanca Festival 2026",
+      "type": "festival",
+      "kind": "Festival",
+      "subtitle": null,
+      "start": "2026-10-27T00:00:00",
+      "end": "2026-11-01T23:59:00",
+      "venue": "Teatros Canal",
+      "area": null,
+      "url": "https://www.instagram.com/p/De_mnsDDnNz/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "SumaFlamenca closing days: women in flamenco history with Israel Fernández and major artists.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:DfE3qSMR0Na:0",
+      "title": "THE RETURN TO COCÓ",
+      "titleEn": "",
+      "type": "nightlife",
+      "kind": "Club night",
+      "subtitle": null,
+      "start": "2026-11-01T23:00:00",
+      "end": "2026-11-02T23:59:00",
+      "venue": "Cocó",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfE3qSMR0Na/",
+      "minutesFromHome": 19,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Extended 23:00–08:00 session at Cocó — post-Halloween underground techno marathon",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "madriddestino:condeduque:actividades-voyager-venimos-de-las-estrellas-volvemos-ellas",
+      "title": "«VOYAGER. VENIMOS DE LAS ESTRELLAS. VOLVEMOS A ELLAS»",
+      "titleEn": "Voyager. We Come from the Stars. We Return to Them",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-03T00:00:00",
+      "end": "2026-11-18T23:59:00",
+      "venue": "Conde Duque · Vestíbulo principal",
+      "area": "Centro",
+      "url": "https://www.condeduquemadrid.es/actividades/voyager-venimos-de-las-estrellas-volvemos-ellas",
+      "minutesFromHome": 26,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Voyager space mission exhibition opening at Conde Duque — the 1977 probes' journey beyond.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.condeduquemadrid.es/actividades/voyager-venimos-de-las-estrellas-volvemos-ellas"
+      },
+      "closedDays": [
+        1
+      ]
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "matadero:2026-11-02T00:00:00+01:00:'BID26: Ibero-American D",
+      "title": "'BID26: Ibero-American Design Biennial' Meeting Space",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-02T00:00:00",
+      "end": "2026-11-07T23:59:59+01:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/en/schedule/bid26-ibero-american-design-biennial-meeting-space",
+      "minutesFromHome": 28,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": "Registration required",
+      "english": true,
+      "note": "Ibero-American Design Biennial opening week at Matadero — platform connecting regional design practice.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.mataderomadrid.org/en/schedule/bid26-ibero-american-design-biennial-meeting-space"
+      }
+    }
+  ],
+  "clusters": []
+}
