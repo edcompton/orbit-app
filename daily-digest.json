@@ -1,0 +1,768 @@
+{
+  "generatedAt": "2026-11-07T04:55:14.790Z",
+  "horizonDays": 7,
+  "aiUsed": true,
+  "site": "https://edcompton.github.io/orbit-app/",
+  "health": {
+    "ranAt": "2026-11-07T04:47:23.194Z",
+    "totalSources": 24,
+    "failing": [
+      {
+        "source": "teatroscanal",
+        "error": "http 403",
+        "items": 76,
+        "lastSeen": "2026-11-04T04:49:41.417Z"
+      }
+    ],
+    "workerAgeDays": 0.01,
+    "worker": [
+      {
+        "source": "munimadrid",
+        "lastOk": "2026-11-07T04:35:17.165Z",
+        "items": 5134,
+        "fresh": true
+      },
+      {
+        "source": "atrapalo",
+        "lastOk": "2026-11-07T04:35:17.165Z",
+        "items": 312,
+        "fresh": true
+      },
+      {
+        "source": "galleries",
+        "lastOk": "2026-11-07T04:35:17.165Z",
+        "items": 4,
+        "fresh": true
+      },
+      {
+        "source": "kadampa",
+        "lastOk": "2026-11-07T04:35:17.165Z",
+        "items": 200,
+        "fresh": true
+      },
+      {
+        "source": "evolutiondance",
+        "lastOk": "2026-11-07T04:35:17.165Z",
+        "items": 24,
+        "fresh": true
+      }
+    ]
+  },
+  "weather": [
+    {
+      "date": "2026-11-07",
+      "minC": 8.5,
+      "maxC": 16.6,
+      "precipMm": 0.4,
+      "precipProbMax": 55,
+      "windMaxKmh": 5.2,
+      "summary": "light rain, 9–17°C, 55% rain"
+    },
+    {
+      "date": "2026-11-08",
+      "minC": 7.5,
+      "maxC": 15.9,
+      "precipMm": 0,
+      "precipProbMax": 18,
+      "windMaxKmh": 9.2,
+      "summary": "overcast, 8–16°C"
+    },
+    {
+      "date": "2026-11-09",
+      "minC": 12.6,
+      "maxC": 18.1,
+      "precipMm": 26.5,
+      "precipProbMax": 98,
+      "windMaxKmh": 17,
+      "summary": "rain showers, 13–18°C, 98% rain"
+    },
+    {
+      "date": "2026-11-10",
+      "minC": 12,
+      "maxC": 15.8,
+      "precipMm": 12.1,
+      "precipProbMax": 84,
+      "windMaxKmh": 15.7,
+      "summary": "rain showers, 12–16°C, 84% rain"
+    },
+    {
+      "date": "2026-11-11",
+      "minC": 12.6,
+      "maxC": 16.4,
+      "precipMm": 16.48,
+      "precipProbMax": 77,
+      "windMaxKmh": 16.4,
+      "summary": "rain showers, 13–16°C, 77% rain"
+    },
+    {
+      "date": "2026-11-12",
+      "minC": 11.7,
+      "maxC": 15.3,
+      "precipMm": 0.68,
+      "precipProbMax": 35,
+      "windMaxKmh": 18.1,
+      "summary": "overcast, 12–15°C"
+    },
+    {
+      "date": "2026-11-13",
+      "minC": 10.6,
+      "maxC": 15.7,
+      "precipMm": 0,
+      "precipProbMax": 21,
+      "windMaxKmh": 11.9,
+      "summary": "overcast, 11–16°C"
+    }
+  ],
+  "bigInCity": [
+    {
+      "day": "2026-11-07",
+      "line": "Nicky Jam, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-07",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Nicky Jam",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/nicky-jam/7-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-08",
+      "line": "Atlético de Madrid – FC Barcelona, 21:00 at Riyadh Air Metropolitano (traffic) · Real Madrid – UCAM Murcia, 19:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-08",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Atlético de Madrid – FC Barcelona",
+          "detail": "LaLiga",
+          "venue": "Riyadh Air Metropolitano",
+          "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+          "why": "traffic",
+          "size": 70000
+        },
+        {
+          "day": "2026-11-08",
+          "time": "19:00",
+          "kind": "basketball",
+          "title": "Real Madrid – UCAM Murcia",
+          "detail": "Jornada 7 Liga Endesa 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-ucam-murcia-jornada-7-liga-endesa-26-27/8-11-2026/19:00",
+          "why": "crowds",
+          "size": 9000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-09",
+      "line": "Yandel, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-09",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Yandel",
+          "detail": "Sinfónico",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/yandel-sinfonico/9-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-10",
+      "line": "Bryan Adams, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-10",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Bryan Adams",
+          "detail": "Roll with the Punches",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/bryan-adams-roll-with-the-punches/10-11-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-11",
+      "line": "Miranda!, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-11",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Miranda!",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/miranda/11-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-12",
+      "line": "Real Madrid – Crvena Zvezda Meridianbet Belgrade, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-12",
+          "time": "21:00",
+          "kind": "basketball",
+          "title": "Real Madrid – Crvena Zvezda Meridianbet Belgrade",
+          "detail": "Jornada 11 Euroliga 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-crvena-zvezda-meridianbet-belgrade-jornada-11-euroliga-26-27/12-11-2026/21:00",
+          "why": "crowds",
+          "size": 12000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-13",
+      "line": "Yandel, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-13",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Yandel",
+          "detail": "Sinfónico",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/yandel-sinfonico/13-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    }
+  ],
+  "bigSources": [
+    {
+      "name": "Movistar Arena",
+      "url": "https://www.movistararena.es/programacion/?venue=arena",
+      "ok": true,
+      "fetchedAt": "2026-11-07T04:55:14.790Z"
+    },
+    {
+      "name": "Atlético de Madrid",
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+      "ok": true,
+      "fetchedAt": "2026-11-07T04:55:14.790Z"
+    },
+    {
+      "name": "Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/calendario",
+      "ok": true,
+      "fetchedAt": "2026-11-07T04:55:14.790Z"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "url": "https://www.rayovallecano.es/partidos",
+      "ok": true,
+      "fetchedAt": "2026-11-07T04:55:14.790Z"
+    }
+  ],
+  "picks": [
+    {
+      "id": "fever:523699",
+      "title": "Tortoise en Sala But, Madrid 2026",
+      "titleEn": "Tortoise at Sala But Madrid 2026",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-08T20:00:00+00:00",
+      "end": null,
+      "venue": "Sala But Madrid",
+      "area": null,
+      "url": "https://feverup.com/m/523699",
+      "minutesFromHome": 17,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Tortoise (Chicago post-rock pioneers) at Sala But — rare Madrid date.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://feverup.com/m/523699",
+        "why": "only a listing (feverup.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 30
+    },
+    {
+      "id": "esmadrid:109699",
+      "title": "Kenny Barron Trio",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-10T20:00:00",
+      "end": null,
+      "venue": "Teatro Fernán Gómez. Centro Cultural de la Villa",
+      "area": "Madrid",
+      "url": "https://festivaldejazzmadrid.com/actividad/kenny-barron-trio-songbook-feat-ekep-nkwelle-russell-hall-jonathan-barber/",
+      "minutesFromHome": 18,
+      "priceBand": "20-50",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Kenny Barron Trio performing Songbook at Fernán Gómez — legendary jazz pianist, intimate setting.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "price"
+        ],
+        "fixed": [
+          "link"
+        ],
+        "page": "https://festivaldejazzmadrid.com/actividad/kenny-barron-trio-songbook-feat-ekep-nkwelle-russell-hall-jonathan-barber/"
+      },
+      "priceFrom": 40
+    },
+    {
+      "id": "instagram:DfYEECFR23x:0",
+      "title": "27 horas con el 27",
+      "titleEn": "27 Hours with the 27",
+      "type": "festival",
+      "kind": "Festival",
+      "subtitle": "cultural marathon programming",
+      "start": "2026-11-13T00:00:00",
+      "end": "2026-11-15T23:59:00",
+      "venue": "Círculo de Bellas Artes",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfYEECFR23x/",
+      "minutesFromHome": 21,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Círculo de Bellas Artes 27-hour cultural marathon inside Festival Eñe — readings, talks, live acts.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/DfYEECFR23x/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:DfXu4zije53:6",
+      "title": "Open House Madrid",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-07T00:00:00",
+      "end": "2026-11-09T23:59:00",
+      "venue": "Distintas ubicaciones",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfXu4zije53/",
+      "minutesFromHome": null,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Open House Madrid: usually-closed buildings open for free tours across the city.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "ateneo:65144",
+      "title": "JAZZMADRID 2026 – JAZZ CON SABOR A CLUB: NICK HEMPTON QUARTET",
+      "titleEn": "",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-09T20:00:00",
+      "end": "2026-11-10T20:00:00",
+      "venue": "Ateneo de Madrid",
+      "area": "Centro",
+      "url": "https://ateneodemadrid.com/evento/jazzmadrid-2026-jazz-con-sabor-a-club-nick-hempton-quartet/",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Nick Hempton tenor sax quartet closing a JazzMadrid run at the Ateneo — small-room intimacy.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://ateneodemadrid.com/evento/jazzmadrid-2026-jazz-con-sabor-a-club-nick-hempton-quartet/"
+      }
+    },
+    {
+      "id": "instagram:DfAV_lFMGn9:0",
+      "title": "Espiricom + Narkom + Nørman Bates",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-13T21:00:00",
+      "end": null,
+      "venue": "Wurlitzer Ballroom",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfAV_lFMGn9/",
+      "minutesFromHome": 17,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Espiricom: industrial riffs, electronics, psych-tribal pulse. Three acts, tiny Wurlitzer room, Friday the 13th.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/DfAV_lFMGn9/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "esmadrid:109598",
+      "title": "Miguel Ángel Rojas. La noche",
+      "titleEn": "Miguel Ángel Rojas. The Night",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-11T00:00:00",
+      "end": "2027-03-15T00:00:00",
+      "venue": "Museo Reina Sofía",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/miguel-angel-rojas-noche-museo-reina-sofia",
+      "minutesFromHome": 33,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Colombian artist Miguel Ángel Rojas opens at Reina Sofía — photography, drawing, conceptual work exploring margins.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/miguel-angel-rojas-noche-museo-reina-sofia",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 12,
+      "closedDays": [
+        2
+      ]
+    },
+    {
+      "id": "esmadrid:99151",
+      "title": "Fundación Scherzo. Rafał Blechacz",
+      "titleEn": "",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "polish pianist classical recital",
+      "start": "2026-11-10T19:30:00",
+      "end": null,
+      "venue": "Auditorio Nacional de Música",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/fundacion-scherzo-rafal-blechacz-auditorio-nacional-musica",
+      "minutesFromHome": 17,
+      "priceBand": "20-50",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Rafał Blechacz piano recital: Chopin winner at the Auditorio Nacional — world-class solo.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/fundacion-scherzo-rafal-blechacz-auditorio-nacional-musica",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 28,
+      "priceTo": 60
+    },
+    {
+      "id": "instagram:DfSW2SwRzbs:0",
+      "title": "MaiteQuiero",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "stimulating singular singer-songwriter",
+      "start": "2026-11-12T21:00:00",
+      "end": "2026-11-12T23:59:00",
+      "venue": "Sala El Sol",
+      "area": null,
+      "url": "https://salaelsol.com/eventos/maitequiero-mazo/",
+      "minutesFromHome": 17,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "MaiteQuiero solo show at legendary Sala El Sol — ex-Shego songwriter, rising indie-pop force.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date"
+        ],
+        "fixed": [
+          "time",
+          "price",
+          "link"
+        ],
+        "page": "https://salaelsol.com/eventos/maitequiero-mazo/"
+      },
+      "priceFrom": 16,
+      "priceNote": "+ booking fee"
+    },
+    {
+      "id": "teatroscanal:105420",
+      "title": "Trajal Harrell | Zürich Dance Ensemble",
+      "titleEn": "",
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": null,
+      "start": "2026-11-14T00:00:00",
+      "end": "2026-11-15T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/tambourines-trajal-harrell-zurich-dance-ensemble/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Trajal Harrell bringing vogue-meets-postmodern dance to Teatros del Canal. Opens next week."
+    },
+    {
+      "id": "instagram:DfKoiR_snBg:3",
+      "title": "Altares de Muertos - Casa de México",
+      "titleEn": "Day of the Dead altars at Casa de México",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-10-31T00:00:00",
+      "end": "2026-11-08T23:59:00",
+      "venue": "Casa de México (Chamberí)",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfKoiR_snBg/",
+      "minutesFromHome": 24,
+      "priceBand": "free",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Day of the Dead altars closing — five takes on the tradition, last chance.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:DfKoiR_snBg:4",
+      "title": "Altares de Muertos - Casa de América",
+      "titleEn": "Day of the Dead altars at Casa de América",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-10-31T00:00:00",
+      "end": "2026-11-10T23:59:00",
+      "venue": "Casa de América (Cibeles)",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfKoiR_snBg/",
+      "minutesFromHome": 22,
+      "priceBand": "free",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Day of the Dead altar at Casa de América, closing in three days.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:DfXNuoSIzoG:0",
+      "title": "La Gran Pantomima",
+      "titleEn": "The Grand Pantomime",
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": null,
+      "start": "2026-11-10T19:00:00",
+      "end": null,
+      "venue": "Círculo de Bellas Artes",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfXNuoSIzoG/",
+      "minutesFromHome": 21,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Physical theatre exploring masks from ancient Greece to protest movements at Círculo de Bellas Artes.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "meetup:317259212",
+      "title": "Cena en La Ancha y ✨Noche en el Thyssen con Dalí",
+      "titleEn": "Dinner at La Ancha & Evening at Thyssen with Dalí",
+      "type": "meetup",
+      "kind": "Social",
+      "subtitle": null,
+      "start": "2026-11-07T20:00:00+01:00",
+      "end": "2026-11-08T00:00:00+01:00",
+      "venue": "La Ancha Zorrilla",
+      "area": null,
+      "url": "https://www.meetup.com/art-lovers-and-foodies/events/317259212/",
+      "minutesFromHome": 22,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": "Full · waitlist",
+      "english": true,
+      "note": "Dinner then late-night Thyssen visit with the Dalí exhibition — social crowd, closing weekend.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [
+          "price"
+        ],
+        "page": "https://www.meetup.com/art-lovers-and-foodies/events/317259212/"
+      },
+      "priceFrom": 30
+    },
+    {
+      "id": "datosmadrid:50461167",
+      "title": "Espacio de encuentro 'Bid26. Bienal Iberoamericana de Diseño'",
+      "titleEn": "Meeting Space: Bid26 Ibero-American Design Biennial",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-02T00:00:00",
+      "end": "2026-11-07T23:59:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=4c5451ab76861a10VgnVCM200000f921e388RCRD",
+      "minutesFromHome": 27,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Design biennial closing at Matadero. Ibero-American design, visual format works without much Spanish.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=4c5451ab76861a10VgnVCM200000f921e388RCRD"
+      }
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "meetup:317259212",
+      "title": "Cena en La Ancha y ✨Noche en el Thyssen con Dalí",
+      "titleEn": "Dinner at La Ancha & Evening at Thyssen with Dalí",
+      "type": "meetup",
+      "kind": "Social",
+      "subtitle": null,
+      "start": "2026-11-07T20:00:00+01:00",
+      "end": "2026-11-08T00:00:00+01:00",
+      "venue": "La Ancha Zorrilla",
+      "area": null,
+      "url": "https://www.meetup.com/art-lovers-and-foodies/events/317259212/",
+      "minutesFromHome": 22,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": "Full · waitlist",
+      "english": true,
+      "note": "Dinner then late-night Thyssen visit with the Dalí exhibition — social crowd, closing weekend.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [
+          "price"
+        ],
+        "page": "https://www.meetup.com/art-lovers-and-foodies/events/317259212/"
+      },
+      "priceFrom": 30
+    }
+  ],
+  "clusters": []
+}
