@@ -1,0 +1,745 @@
+{
+  "generatedAt": "2026-11-14T14:16:41.251Z",
+  "horizonDays": 7,
+  "aiUsed": true,
+  "site": "https://edcompton.github.io/orbit-app/",
+  "health": {
+    "ranAt": "2026-11-14T14:11:02.968Z",
+    "totalSources": 24,
+    "failing": [
+      {
+        "source": "teatroscanal",
+        "error": "http 403",
+        "items": 76,
+        "lastSeen": "2026-11-04T04:49:41.417Z"
+      }
+    ],
+    "workerAgeDays": 0.4,
+    "worker": [
+      {
+        "source": "munimadrid",
+        "lastOk": "2026-11-14T04:35:26.656Z",
+        "items": 4760,
+        "fresh": true
+      },
+      {
+        "source": "atrapalo",
+        "lastOk": "2026-11-14T04:35:26.656Z",
+        "items": 314,
+        "fresh": true
+      },
+      {
+        "source": "galleries",
+        "lastOk": "2026-11-14T04:35:26.656Z",
+        "items": 5,
+        "fresh": true
+      },
+      {
+        "source": "kadampa",
+        "lastOk": "2026-11-14T04:35:26.656Z",
+        "items": 200,
+        "fresh": true
+      },
+      {
+        "source": "evolutiondance",
+        "lastOk": "2026-11-14T04:35:26.656Z",
+        "items": 24,
+        "fresh": true
+      }
+    ]
+  },
+  "weather": [
+    {
+      "date": "2026-11-14",
+      "minC": 10.7,
+      "maxC": 14.3,
+      "precipMm": 3.7,
+      "precipProbMax": 70,
+      "windMaxKmh": 16.9,
+      "summary": "rain showers, 11–14°C, 70% rain"
+    },
+    {
+      "date": "2026-11-15",
+      "minC": 10.6,
+      "maxC": 12.8,
+      "precipMm": 1.4,
+      "precipProbMax": 43,
+      "windMaxKmh": 14.4,
+      "summary": "light rain, 11–13°C, 43% rain"
+    },
+    {
+      "date": "2026-11-16",
+      "minC": 10.5,
+      "maxC": 15.1,
+      "precipMm": 0,
+      "precipProbMax": 4,
+      "windMaxKmh": 12.6,
+      "summary": "overcast, 11–15°C"
+    },
+    {
+      "date": "2026-11-17",
+      "minC": 10.1,
+      "maxC": 14.6,
+      "precipMm": 0.3,
+      "precipProbMax": 15,
+      "windMaxKmh": 13.4,
+      "summary": "overcast, 10–15°C"
+    },
+    {
+      "date": "2026-11-18",
+      "minC": 13.2,
+      "maxC": 16.7,
+      "precipMm": 0.3,
+      "precipProbMax": 10,
+      "windMaxKmh": 15.6,
+      "summary": "overcast, 13–17°C"
+    },
+    {
+      "date": "2026-11-19",
+      "minC": 8.4,
+      "maxC": 15.7,
+      "precipMm": 4.05,
+      "precipProbMax": 35,
+      "windMaxKmh": 20.1,
+      "summary": "light rain, 8–16°C"
+    },
+    {
+      "date": "2026-11-20",
+      "minC": 5.8,
+      "maxC": 13,
+      "precipMm": 0,
+      "precipProbMax": 24,
+      "windMaxKmh": 5.4,
+      "summary": "overcast, 6–13°C"
+    }
+  ],
+  "bigInCity": [
+    {
+      "day": "2026-11-14",
+      "line": "Yandel, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-14",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Yandel",
+          "detail": "Sinfónico",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/yandel-sinfonico/14-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-15",
+      "line": "Agorazein (AGZ), 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-15",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Agorazein (AGZ)",
+          "detail": "Siempre",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/agorazein-agz-siempre/15-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-16",
+      "line": "Agorazein (AGZ), 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-16",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Agorazein (AGZ)",
+          "detail": "Siempre",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/agorazein-agz-siempre/16-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-17",
+      "line": "Agorazein (AGZ), 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-17",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Agorazein (AGZ)",
+          "detail": "Siempre",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/agorazein-agz-siempre/17-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-18",
+      "line": "Agorazein (AGZ), 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-18",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "Agorazein (AGZ)",
+          "detail": "Siempre",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/agorazein-agz-siempre/18-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-19",
+      "line": "Vetusta Morla, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-19",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Vetusta Morla",
+          "detail": "Gira de Vuelta Canciones de Ida",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/vetusta-morla-gira-de-vuelta-canciones-de-ida/19-11-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-20",
+      "line": "Vetusta Morla, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-20",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Vetusta Morla",
+          "detail": "Gira de Vuelta Canciones de Ida",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/vetusta-morla-gira-de-vuelta-canciones-de-ida/20-11-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    }
+  ],
+  "bigSources": [
+    {
+      "name": "Movistar Arena",
+      "url": "https://www.movistararena.es/programacion/?venue=arena",
+      "ok": true,
+      "fetchedAt": "2026-11-14T04:52:36.453Z"
+    },
+    {
+      "name": "Atlético de Madrid",
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+      "ok": true,
+      "fetchedAt": "2026-11-14T04:52:36.453Z"
+    },
+    {
+      "name": "Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/calendario",
+      "ok": true,
+      "fetchedAt": "2026-11-14T04:52:36.453Z"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "url": "https://www.rayovallecano.es/partidos",
+      "ok": true,
+      "fetchedAt": "2026-11-14T04:52:36.453Z"
+    }
+  ],
+  "picks": [
+    {
+      "id": "instagram:DehST8qooUr:0",
+      "title": "FESTIVAL SOLARPUNK",
+      "titleEn": null,
+      "type": "festival",
+      "kind": "Festival",
+      "subtitle": null,
+      "start": "2026-11-20T18:00:00",
+      "end": "2026-11-22T23:59:00",
+      "venue": "Círculo de Bellas Artes",
+      "area": null,
+      "url": "https://www.instagram.com/p/DehST8qooUr/",
+      "minutesFromHome": 21,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Solarpunk festival at Círculo de Bellas Artes — art, tech, optimistic futures.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "teatroscanal:105420",
+      "title": "Trajal Harrell | Zürich Dance Ensemble",
+      "titleEn": "",
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": null,
+      "start": "2026-11-14T00:00:00",
+      "end": "2026-11-15T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/tambourines-trajal-harrell-zurich-dance-ensemble/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Trajal Harrell brings postmodern dance-meets-voguing to Teatros del Canal — closing weekend of acclaimed run.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "its site refuses automated readers (http 403)"
+      }
+    },
+    {
+      "id": "esmadrid:109643",
+      "title": "Tambourines",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": "contemporary dance performance",
+      "start": "2026-11-14T19:00:00",
+      "end": "2026-11-15T00:00:00",
+      "venue": "Teatros del Canal",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/tambourines-teatros-canal",
+      "minutesFromHome": 18,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Harrell's Tambourines: Venice Biennale Silver Lion choreographer, Spanish premiere, closing weekend at Teatros Canal.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/tambourines-teatros-canal",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 9,
+      "priceTo": 25
+    },
+    {
+      "id": "esmadrid:109687",
+      "title": "flesh chariot, chariot of flesh",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": "contemporary dance with 15 dancers",
+      "start": "2026-11-20T20:00:00",
+      "end": "2026-11-21T00:00:00",
+      "venue": "Teatros del Canal",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/flesh-chariot-chariot-flesh-teatros-canal",
+      "minutesFromHome": 18,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Faye Driscoll + Cullberg Ballet opening: 15 dancers, physical theatre, no Spanish needed at Teatros del Canal.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/flesh-chariot-chariot-flesh-teatros-canal",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 9,
+      "priceTo": 35
+    },
+    {
+      "id": "teatroscanal:105387",
+      "title": "Cullberg | Faye Driscoll",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": null,
+      "start": "2026-11-20T00:00:00",
+      "end": "2026-11-21T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/flesh-chariot-chariot-of-flesh-cullberg-faye-driscoll/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Cullberg + Faye Driscoll: acclaimed Swedish company, NYC choreographer, physical movement piece opening.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "its site refuses automated readers (http 403)"
+      }
+    },
+    {
+      "id": "madriddestino:condeduque:actividades-voyager-venimos-de-las-estrellas-volvemos-ellas",
+      "title": "«VOYAGER. VENIMOS DE LAS ESTRELLAS. VOLVEMOS A ELLAS»",
+      "titleEn": "Voyager. We Come from the Stars. We Return to Them",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-03T00:00:00",
+      "end": "2026-11-18T23:59:00",
+      "venue": "Conde Duque · Vestíbulo principal",
+      "area": "Centro",
+      "url": "https://www.condeduquemadrid.es/actividades/voyager-venimos-de-las-estrellas-volvemos-ellas",
+      "minutesFromHome": 26,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Voyager space probe exhibition at Conde Duque — 1977 mission story.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.condeduquemadrid.es/actividades/voyager-venimos-de-las-estrellas-volvemos-ellas"
+      },
+      "closedDays": [
+        1
+      ]
+    },
+    {
+      "id": "madriddestino:centrocentro:musica-marty-ehrlich-trio",
+      "title": "Marty Ehrlich Trio",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-14T19:00:00",
+      "end": null,
+      "venue": "CentroCentro · Auditorio",
+      "area": "Retiro",
+      "url": "https://www.centrocentro.org/musica/marty-ehrlich-trio",
+      "minutesFromHome": 23,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "New York jazz multi-instrumentalist Marty Ehrlich trio at CentroCentro, one-off touring show.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.centrocentro.org/musica/marty-ehrlich-trio"
+      },
+      "priceFrom": 25
+    },
+    {
+      "id": "matadero:2026-11-20T21:00:00+01:00:In_CORPUS",
+      "title": "In_CORPUS",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": null,
+      "start": "2026-11-20T19:30:00",
+      "end": "2026-11-20T21:00:00+01:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/en/schedule/incorpus",
+      "minutesFromHome": 28,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Agnès López-Río performative intervention activating the 'Bailad, bailad, malditos' exhibition at Matadero, one night only.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [
+          "kind",
+          "time"
+        ],
+        "page": "https://www.mataderomadrid.org/en/schedule/incorpus"
+      },
+      "priceFrom": 0
+    },
+    {
+      "id": "matadero:2026-11-17T20:30:00+01:00:Ghost in the Machine",
+      "title": "Ghost in the Machine",
+      "titleEn": null,
+      "type": "film",
+      "kind": "Film",
+      "subtitle": null,
+      "start": "2026-11-17T20:30:00+01:00",
+      "end": "2026-11-17T20:30:00+01:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/programacion/ghost-machine",
+      "minutesFromHome": 28,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "English documentary exposing AI's hidden history at Matadero — one-off screening, timely subject.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [
+          "price"
+        ],
+        "page": "https://www.mataderomadrid.org/programacion/ghost-machine"
+      },
+      "priceFrom": 5.5
+    },
+    {
+      "id": "instagram:DfZXQSlN_EA:0",
+      "title": "Penny and the Pits + Tovar",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-18T21:00:00",
+      "end": null,
+      "venue": "Wurlitzer Ballroom",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfZXQSlN_EA/",
+      "minutesFromHome": 17,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Canadian garage psych Penny and the Pits' Madrid debut with math-rock trio Tovar at Wurlitzer",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/DfZXQSlN_EA/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "esmadrid:109653",
+      "title": "La Menesunda según Marta Minujín",
+      "titleEn": "",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "immersive installation reconstruction",
+      "start": "2026-11-18T00:00:00",
+      "end": "2027-03-08T00:00:00",
+      "venue": "Museo Reina Sofía",
+      "area": "Madrid",
+      "url": "https://www.museoreinasofia.es/exposicion/la-menesunda-segun-marta-minujin",
+      "minutesFromHome": 33,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Marta Minujín's legendary 1960s immersive installation recreated at Reina Sofía — Argentine pop art landmark",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date"
+        ],
+        "fixed": [
+          "link"
+        ],
+        "page": "https://www.museoreinasofia.es/exposicion/la-menesunda-segun-marta-minujin"
+      },
+      "closedDays": [
+        2
+      ]
+    },
+    {
+      "id": "instagram:DfoudIzDaz4:3",
+      "title": "RATA NEGRA + TWIN GHOSTS + ERROR 97",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-15T12:00:00",
+      "end": null,
+      "venue": "Sala El Sol",
+      "area": null,
+      "url": "https://salaelsol.com/eventos/rata-negra-twin-ghosts-error-97/",
+      "minutesFromHome": 17,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "RATA NEGRA, Twin Ghosts, Error 97: matinee punk triple-bill at El Sol.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time"
+        ],
+        "fixed": [
+          "price",
+          "link"
+        ],
+        "page": "https://salaelsol.com/eventos/rata-negra-twin-ghosts-error-97/"
+      },
+      "priceFrom": 15
+    },
+    {
+      "id": "instagram:DfpqasRDX9s:0",
+      "title": "Lara Vizuete",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-17T00:00:00",
+      "end": "2026-11-17T23:59:00",
+      "venue": "Sala Galileo Galilei",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfpqasRDX9s/",
+      "minutesFromHome": 23,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Lara Vizuete at Galileo Galilei with four-piece band, classic small gig room.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/DfpqasRDX9s/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "ateneo:66418",
+      "title": "NACHT CABAUD WILLIAMS TRIO",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-19T20:00:00",
+      "end": "2026-11-19T20:00:00",
+      "venue": "Ateneo de Madrid",
+      "area": "Centro",
+      "url": "https://ateneodemadrid.com/evento/nacht-cabaud-williams-trio/",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Nacht-Cabaud-Williams jazz trio at Ateneo: sax, bass, drums, intimate 20:00 or 22:00 set.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://ateneodemadrid.com/evento/nacht-cabaud-williams-trio/"
+      }
+    },
+    {
+      "id": "esmadrid:73821",
+      "title": "Mastretta",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "jazz orchestra with diverse musicians",
+      "start": "2026-11-14T20:00:00",
+      "end": null,
+      "venue": "Café Berlín Club Madrid",
+      "area": "Madrid",
+      "url": "https://festivaldejazzmadrid.com/actividad/mastretta/",
+      "minutesFromHome": 20,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Veteran 10-piece Latin orchestra Mastretta at Café Berlín for JAZZMADRID26 festival.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "time",
+          "price"
+        ],
+        "fixed": [
+          "link"
+        ],
+        "page": "https://festivaldejazzmadrid.com/actividad/mastretta/"
+      },
+      "priceFrom": 18
+    }
+  ],
+  "deadlines": [],
+  "clusters": []
+}
