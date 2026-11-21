@@ -1,0 +1,782 @@
+{
+  "generatedAt": "2026-11-21T04:38:37.018Z",
+  "horizonDays": 7,
+  "aiUsed": true,
+  "site": "https://edcompton.github.io/orbit-app/",
+  "health": {
+    "ranAt": "2026-11-21T04:32:54.147Z",
+    "totalSources": 25,
+    "failing": [
+      {
+        "source": "voluntarios",
+        "error": "no activity cards (page shape changed)",
+        "items": 1,
+        "lastSeen": "2026-11-17T04:45:48.724Z"
+      },
+      {
+        "source": "teatroscanal",
+        "error": "http 403",
+        "items": 76,
+        "lastSeen": "2026-11-04T04:49:41.417Z"
+      },
+      {
+        "source": "munimadrid",
+        "error": "the Mac mini couldn't fetch it",
+        "items": 616,
+        "lastSeen": "2026-11-21T04:32:54.147Z"
+      },
+      {
+        "source": "weather",
+        "error": "fetch failed: UND_ERR_CONNECT_TIMEOUT",
+        "items": 0,
+        "lastSeen": null
+      }
+    ],
+    "workerAgeDays": 0,
+    "worker": [
+      {
+        "source": "munimadrid",
+        "lastOk": "2026-11-18T04:36:03.302Z",
+        "items": 4510,
+        "fresh": false
+      },
+      {
+        "source": "atrapalo",
+        "lastOk": "2026-11-21T04:30:11.713Z",
+        "items": 310,
+        "fresh": true
+      },
+      {
+        "source": "galleries",
+        "lastOk": "2026-11-21T04:30:11.713Z",
+        "items": 5,
+        "fresh": true
+      },
+      {
+        "source": "kadampa",
+        "lastOk": "2026-11-21T04:30:11.713Z",
+        "items": 200,
+        "fresh": true
+      },
+      {
+        "source": "evolutiondance",
+        "lastOk": "2026-11-21T04:30:11.713Z",
+        "items": 20,
+        "fresh": true
+      }
+    ]
+  },
+  "weather": [
+    {
+      "date": "2026-11-20",
+      "minC": 8,
+      "maxC": 14.1,
+      "precipMm": 0,
+      "precipProbMax": 33,
+      "windMaxKmh": 7.7,
+      "summary": "overcast, 8–14°C"
+    },
+    {
+      "date": "2026-11-21",
+      "minC": 9.7,
+      "maxC": 12.6,
+      "precipMm": 2.7,
+      "precipProbMax": 80,
+      "windMaxKmh": 4,
+      "summary": "rain showers, 10–13°C, 80% rain"
+    },
+    {
+      "date": "2026-11-22",
+      "minC": 6.8,
+      "maxC": 13.5,
+      "precipMm": 0,
+      "precipProbMax": 28,
+      "windMaxKmh": 14.8,
+      "summary": "overcast, 7–14°C"
+    },
+    {
+      "date": "2026-11-23",
+      "minC": 3.3,
+      "maxC": 12.9,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 6.8,
+      "summary": "overcast, 3–13°C"
+    },
+    {
+      "date": "2026-11-24",
+      "minC": 6.3,
+      "maxC": 9.2,
+      "precipMm": 4.5,
+      "precipProbMax": 53,
+      "windMaxKmh": 11.1,
+      "summary": "light rain, 6–9°C, 53% rain"
+    },
+    {
+      "date": "2026-11-25",
+      "minC": 4.7,
+      "maxC": 10.4,
+      "precipMm": 1.95,
+      "precipProbMax": 30,
+      "windMaxKmh": 16,
+      "summary": "light rain, 5–10°C"
+    },
+    {
+      "date": "2026-11-26",
+      "minC": 2.1,
+      "maxC": 11,
+      "precipMm": 0,
+      "precipProbMax": 21,
+      "windMaxKmh": 6.1,
+      "summary": "mainly clear, 2–11°C"
+    }
+  ],
+  "bigInCity": [
+    {
+      "day": "2026-11-21",
+      "line": "Real Madrid – Celta de Vigo, 21:00 at Estadio Santiago Bernabéu (traffic) · Vetusta Morla, 20:30 at Movistar Arena (crowds) · Rayo Vallecano – Valencia CF, 16:15 at Estadio de Vallecas (crowds)",
+      "events": [
+        {
+          "day": "2026-11-21",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Real Madrid – Celta de Vigo",
+          "detail": "La Liga",
+          "venue": "Estadio Santiago Bernabéu",
+          "url": "https://www.realmadrid.com/es-ES/calendario",
+          "why": "traffic",
+          "size": 78000
+        },
+        {
+          "day": "2026-11-21",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Vetusta Morla",
+          "detail": "Gira de Vuelta Canciones de Ida",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/vetusta-morla-gira-de-vuelta-canciones-de-ida/21-11-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        },
+        {
+          "day": "2026-11-21",
+          "time": "16:15",
+          "kind": "football",
+          "title": "Rayo Vallecano – Valencia CF",
+          "detail": "LALIGA EA SPORTS",
+          "venue": "Estadio de Vallecas",
+          "url": "https://www.rayovallecano.es/partidos",
+          "why": "crowds",
+          "size": 14000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-22",
+      "line": "Real Madrid – Asisa Joventut, 19:00 at Movistar Arena (crowds) · Movistar Estudiantes – Club Ourense Baloncesto, 12:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-22",
+          "time": "19:00",
+          "kind": "basketball",
+          "title": "Real Madrid – Asisa Joventut",
+          "detail": "Jornada 9 Liga Endesa 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-asisa-joventut-jornada-9-liga-endesa-26-27/22-11-2026/19:00",
+          "why": "crowds",
+          "size": 9000
+        },
+        {
+          "day": "2026-11-22",
+          "time": "12:00",
+          "kind": "basketball",
+          "title": "Movistar Estudiantes – Club Ourense Baloncesto",
+          "detail": "Jornada 9 Primera FEB 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/movistar-estudiantes-vs-club-ourense-baloncesto-jornada-9-primera-feb-26-27/22-11-2026/12:00",
+          "why": "crowds",
+          "size": 6000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-24",
+      "line": "Real Madrid – PSV Eindhoven, 21:00 at Estadio Santiago Bernabéu (traffic)",
+      "events": [
+        {
+          "day": "2026-11-24",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Real Madrid – PSV Eindhoven",
+          "detail": "Champions League",
+          "venue": "Estadio Santiago Bernabéu",
+          "url": "https://www.realmadrid.com/es-ES/calendario",
+          "why": "traffic",
+          "size": 78000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-25",
+      "line": "Atlético de Madrid – Viking, 21:00 at Riyadh Air Metropolitano (traffic) · Real Madrid – Zalgiris Kaunas, 20:45 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-25",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Atlético de Madrid – Viking",
+          "detail": "UEFA Champions League",
+          "venue": "Riyadh Air Metropolitano",
+          "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+          "why": "traffic",
+          "size": 70000
+        },
+        {
+          "day": "2026-11-25",
+          "time": "20:45",
+          "kind": "basketball",
+          "title": "Real Madrid – Zalgiris Kaunas",
+          "detail": "Jornada 14 Euroliga 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-zalgiris-kaunas-jornada-14-euroliga-26-27/25-11-2026/20:45",
+          "why": "crowds",
+          "size": 12000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-26",
+      "line": "Juntos, 20:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-26",
+          "time": "20:00",
+          "kind": "concert",
+          "title": "Juntos",
+          "detail": "La máquina del tiempo Europa Tour",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/juntos-la-maquina-del-tiempo-europa-tour/26-11-2026/20:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "line": "La Plazuela, 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-27",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "La Plazuela",
+          "detail": "Lugar nº0 (D.L.Y.) Tour",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/la-plazuela-lugar-n-0-d-l-y-tour/27-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    }
+  ],
+  "bigSources": [
+    {
+      "name": "Movistar Arena",
+      "url": "https://www.movistararena.es/programacion/?venue=arena",
+      "ok": true,
+      "fetchedAt": "2026-11-21T04:38:37.018Z"
+    },
+    {
+      "name": "Atlético de Madrid",
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+      "ok": true,
+      "fetchedAt": "2026-11-21T04:38:37.018Z"
+    },
+    {
+      "name": "Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/calendario",
+      "ok": true,
+      "fetchedAt": "2026-11-21T04:38:37.018Z"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "url": "https://www.rayovallecano.es/partidos",
+      "ok": true,
+      "fetchedAt": "2026-11-21T04:38:37.018Z"
+    }
+  ],
+  "picks": [
+    {
+      "id": "teatroscanal:105558",
+      "title": "Izo FitzRoy",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-21T21:00:00",
+      "end": "2026-11-21T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/a-good-woman-izo-fitzroy/",
+      "minutesFromHome": 18,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Izo FitzRoy: soul-folk voice compared to Cleo Sol and Portishead at Teatros del Canal.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/izo-fitzroy-good-woman-teatros-canal",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 15
+    },
+    {
+      "id": "esmadrid:109669",
+      "title": "Carne y arena. Alejandro G. Iñárritu",
+      "titleEn": "Flesh and Sand. Alejandro G. Iñárritu",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-27T00:00:00",
+      "end": "2027-02-24T00:00:00",
+      "venue": "Espacio Fundación Telefónica",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/carne-arena-alejandro-g-inarritu-espacio-fundacion-telefonica",
+      "minutesFromHome": 17,
+      "priceBand": "free",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Iñárritu's VR installation on migration opens at Fundación Telefónica — the film director's first gallery piece.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "its page couldn't be read (The operation was aborted due to timeout)"
+      },
+      "closedDays": [
+        1
+      ]
+    },
+    {
+      "id": "matadero:2026-11-21T21:00:00+01:00:November 2026 Open House",
+      "title": "November 2026 Open House",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "residency center open house",
+      "start": "2026-11-21T21:00:00+01:00",
+      "end": "2026-11-21T21:00:00+01:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/en/schedule/november-2026-open-house",
+      "minutesFromHome": 28,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Matadero residency open house: work-in-progress from artists exploring environment, cinema, performance.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.mataderomadrid.org/en/schedule/november-2026-open-house"
+      }
+    },
+    {
+      "id": "madridenvivo:802061",
+      "title": "CHICO BLANCO LIVE A/V + NAZZZ + JUGUETE EN MADRID | SON ESTRELLA GALICIA",
+      "titleEn": "CHICO BLANCO LIVE A/V + NAZZZ + JUGUETE in Madrid | SON ESTRELLA GALICIA",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-25T21:00:00",
+      "end": null,
+      "venue": "Café Berlín",
+      "area": null,
+      "url": "https://dice.fm/event/r32yqy-chico-blanco-live-av-nazzz-juguete-en-madrid-son-estrella-galicia-25th-nov-caf-berln-madrid-tickets?lng=es",
+      "minutesFromHome": 20,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Chico Blanco live audiovisual set plus NAZZZ at Café Berlín — Son Estrella Galicia one-off triple bill.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://dice.fm/event/r32yqy-chico-blanco-live-av-nazzz-juguete-en-madrid-son-estrella-galicia-25th-nov-caf-berln-madrid-tickets?lng=es",
+        "why": "only a listing (dice.fm) could be read, not the organiser's own page"
+      },
+      "priceFrom": 20.03
+    },
+    {
+      "id": "instagram:DehST8qooUr:0",
+      "title": "FESTIVAL SOLARPUNK",
+      "titleEn": null,
+      "type": "festival",
+      "kind": "Festival",
+      "subtitle": null,
+      "start": "2026-11-20T18:00:00",
+      "end": "2026-11-22T23:59:00",
+      "venue": "Círculo de Bellas Artes",
+      "area": null,
+      "url": "https://www.instagram.com/p/DehST8qooUr/",
+      "minutesFromHome": 21,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Solarpunk festival at Círculo de Bellas Artes imagining hopeful futures, closing talks and art.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:DfUDy_bjNQd:0",
+      "title": "CRISPR, the pattern of life",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "audiovisual documentary show",
+      "start": "2026-11-27T21:00:00",
+      "end": null,
+      "venue": "La Casa Encendida",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfUDy_bjNQd/",
+      "minutesFromHome": 32,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "BROMO's new audiovisual piece at La Casa Encendida, blending CRISPR science with electronic soundscape.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "esmadrid:109789",
+      "title": "Interior Berlanga. Cine, vida y humor",
+      "titleEn": "Interior Berlanga. Cinema, Life and Humor",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-11-25T00:00:00",
+      "end": "2027-05-23T00:00:00",
+      "venue": "CaixaForum Madrid",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/interior-berlanga-cine-vida-humor-caixaforum-madrid",
+      "minutesFromHome": 31,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Berlanga retrospective opening at CaixaForum — intimate look at Spain's great comedic filmmaker through family archives.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/interior-berlanga-cine-vida-humor-caixaforum-madrid",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 6
+    },
+    {
+      "id": "ateneo:66420",
+      "title": "SONGAH CHAE TRIO",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-22T20:00:00",
+      "end": "2026-11-22T20:00:00",
+      "venue": "Ateneo de Madrid",
+      "area": "Centro",
+      "url": "https://ateneodemadrid.com/evento/songah-chae-trio/",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Korean jazz pianist SongAh Chae trio at Ateneo — intimate room, 20:00 or 22:00 set.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://ateneodemadrid.com/evento/songah-chae-trio/"
+      }
+    },
+    {
+      "id": "teatroscanal:105387",
+      "title": "Cullberg | Faye Driscoll",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": null,
+      "start": "2026-11-20T00:00:00",
+      "end": "2026-11-21T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/flesh-chariot-chariot-of-flesh-cullberg-faye-driscoll/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Cullberg & Faye Driscoll's physical-dance theatre in Teatros del Canal — closing run, miss it.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "its site refuses automated readers (http 403)"
+      }
+    },
+    {
+      "id": "esmadrid:109687",
+      "title": "flesh chariot, chariot of flesh",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": "contemporary dance with 15 dancers",
+      "start": "2026-11-20T20:00:00",
+      "end": "2026-11-21T00:00:00",
+      "venue": "Teatros del Canal",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/flesh-chariot-chariot-flesh-teatros-canal",
+      "minutesFromHome": 18,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Faye Driscoll meets Cullberg Ballet — 15 dancers explore the body, closing performances.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/flesh-chariot-chariot-flesh-teatros-canal",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 9,
+      "priceTo": 35
+    },
+    {
+      "id": "ateneo:66346",
+      "title": "El tejido Joyce: Un recorrido por «Retrato del artista adolescente»",
+      "titleEn": "Joyce's Fabric: A Journey Through 'A Portrait of the Artist as a Young Man'",
+      "type": "class",
+      "kind": "Talk",
+      "subtitle": null,
+      "start": "2026-11-24T19:00:00",
+      "end": "2026-11-24T19:00:00",
+      "venue": "Ateneo de Madrid",
+      "area": "Centro",
+      "url": "https://ateneodemadrid.com/evento/el-tejido-joyce-un-recorrido-por-retrato-del-artista-adolescente/",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Joyce's 'Portrait' with Lacanian reading, live viola, at Ateneo — literary Madrid one-off.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://ateneodemadrid.com/evento/el-tejido-joyce-un-recorrido-por-retrato-del-artista-adolescente/"
+      }
+    },
+    {
+      "id": "instagram:Dfjma94kYbr:0",
+      "title": "Pablo Und Destruktion + Tarik Rahim + Álvaro Lacalle",
+      "titleEn": "",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-27T21:00:00",
+      "end": "2026-11-27T23:59:00",
+      "venue": "Sala El Sol",
+      "area": null,
+      "url": "https://salaelsol.com/eventos/pablo-und-destruktion-alvaro-lacalle-tarik-rahim-mazo/",
+      "minutesFromHome": 17,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Pablo Und Destruktion album launch at El Sol with two support acts.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date"
+        ],
+        "fixed": [
+          "time",
+          "price",
+          "link"
+        ],
+        "page": "https://salaelsol.com/eventos/pablo-und-destruktion-alvaro-lacalle-tarik-rahim-mazo/"
+      },
+      "priceFrom": 19,
+      "priceNote": "+ booking fee"
+    },
+    {
+      "id": "esmadrid:109133",
+      "title": "Arte y misericordia. El Barroco de la Santa Caridad de Sevilla en Madrid",
+      "titleEn": "Art and Mercy: Baroque at the Santa Caridad of Seville in Madrid",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-06-29T00:00:00",
+      "end": "2026-11-22T00:00:00",
+      "venue": "Conde Duque",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/arte-misericordia-barroco-santa-caridad-sevilla-madrid-conde-duque",
+      "minutesFromHome": 26,
+      "priceBand": "free",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Baroque paintings from Seville's Santa Caridad, closing run at Conde Duque — Murillo, Valdés Leal, final days.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/arte-misericordia-barroco-santa-caridad-sevilla-madrid-conde-duque",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 0,
+      "closedDays": [
+        1
+      ]
+    },
+    {
+      "id": "instagram:Df2CwAwpWQZ:0",
+      "title": "Festival OpenLAB",
+      "titleEn": null,
+      "type": "festival",
+      "kind": "Festival",
+      "subtitle": null,
+      "start": "2026-11-26T16:00:00",
+      "end": "2026-11-28T23:59:00",
+      "venue": "Matadero Madrid",
+      "area": null,
+      "url": "https://www.instagram.com/p/Df2CwAwpWQZ/",
+      "minutesFromHome": 28,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "OpenLAB Festival closing at Matadero — three days of experimental tech, art and truth mechanics presentations.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "instagram:DeZLyeUDGyn:1",
+      "title": "Call Me Sorvina",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "jazz rap singer",
+      "start": "2026-11-21T19:00:00",
+      "end": null,
+      "venue": "Teatro Real Carlos III",
+      "area": null,
+      "url": "https://www.instagram.com/p/DeZLyeUDGyn/",
+      "minutesFromHome": 24,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Call Me Sorvina — Berlin-based US singer bridging jazz rap, neo-soul, gospel, hip-hop, Teatro Real Carlos III.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    }
+  ],
+  "deadlines": [],
+  "clusters": []
+}
