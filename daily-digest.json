@@ -1,0 +1,747 @@
+{
+  "generatedAt": "2026-11-28T16:18:19.924Z",
+  "horizonDays": 7,
+  "aiUsed": true,
+  "site": "https://edcompton.github.io/orbit-app/",
+  "health": {
+    "ranAt": "2026-11-28T16:12:55.375Z",
+    "totalSources": 26,
+    "failing": [
+      {
+        "source": "voluntarios",
+        "error": "no activity cards (page shape changed)",
+        "items": 1,
+        "lastSeen": "2026-11-17T04:45:48.724Z"
+      },
+      {
+        "source": "teatroscanal",
+        "error": "http 403",
+        "items": 76,
+        "lastSeen": "2026-11-04T04:49:41.417Z"
+      },
+      {
+        "source": "munimadrid",
+        "error": "the Mac mini couldn't fetch it",
+        "items": 1209,
+        "lastSeen": "2026-11-28T16:12:55.375Z"
+      }
+    ],
+    "workerAgeDays": 0.48,
+    "worker": [
+      {
+        "source": "munimadrid",
+        "lastOk": "2026-11-18T04:36:03.302Z",
+        "items": 4510,
+        "fresh": false
+      },
+      {
+        "source": "atrapalo",
+        "lastOk": "2026-11-28T04:45:45.307Z",
+        "items": 314,
+        "fresh": true
+      },
+      {
+        "source": "galleries",
+        "lastOk": "2026-11-28T04:45:45.307Z",
+        "items": 6,
+        "fresh": true
+      },
+      {
+        "source": "kadampa",
+        "lastOk": "2026-11-28T04:45:45.307Z",
+        "items": 200,
+        "fresh": true
+      },
+      {
+        "source": "evolutiondance",
+        "lastOk": "2026-11-28T04:45:45.307Z",
+        "items": 20,
+        "fresh": true
+      }
+    ]
+  },
+  "weather": [
+    {
+      "date": "2026-11-28",
+      "minC": 6.2,
+      "maxC": 9.3,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 2.9,
+      "summary": "fog, 6–9°C"
+    },
+    {
+      "date": "2026-11-29",
+      "minC": 6,
+      "maxC": 11.7,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 3.3,
+      "summary": "fog, 6–12°C"
+    },
+    {
+      "date": "2026-11-30",
+      "minC": 7,
+      "maxC": 13.3,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 5.8,
+      "summary": "overcast, 7–13°C"
+    },
+    {
+      "date": "2026-12-01",
+      "minC": 5.2,
+      "maxC": 9.5,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 4.1,
+      "summary": "fog, 5–10°C"
+    },
+    {
+      "date": "2026-12-02",
+      "minC": 6,
+      "maxC": 8.8,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 3.1,
+      "summary": "fog, 6–9°C"
+    },
+    {
+      "date": "2026-12-03",
+      "minC": 3.8,
+      "maxC": 11.6,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 4.1,
+      "summary": "fog, 4–12°C"
+    },
+    {
+      "date": "2026-12-04",
+      "minC": 1.7,
+      "maxC": 11.2,
+      "precipMm": 0,
+      "precipProbMax": 0,
+      "windMaxKmh": 3.6,
+      "summary": "fog, 2–11°C"
+    }
+  ],
+  "bigInCity": [
+    {
+      "day": "2026-11-28",
+      "line": "Real Madrid – Alavés, 21:00 at Estadio Santiago Bernabéu (traffic) · LA M.O.D.A., 21:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-28",
+          "time": "21:00",
+          "kind": "football",
+          "title": "Real Madrid – Alavés",
+          "detail": "La Liga",
+          "venue": "Estadio Santiago Bernabéu",
+          "url": "https://www.realmadrid.com/es-ES/calendario",
+          "why": "traffic",
+          "size": 78000
+        },
+        {
+          "day": "2026-11-28",
+          "time": "21:00",
+          "kind": "concert",
+          "title": "LA M.O.D.A.",
+          "detail": "La maravillosa orquesta del alcohol 2026",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/la-m-o-d-a-la-maravillosa-orquesta-del-alcohol-2026/28-11-2026/21:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-11-29",
+      "line": "Víctor Manuel, 19:00 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-11-29",
+          "time": "19:00",
+          "kind": "concert",
+          "title": "Víctor Manuel",
+          "detail": "Solo a solas conmigo",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/v-ctor-manuel-solo-a-solas-conmigo/29-11-2026/19:00",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-12-01",
+      "line": "75 Aniversario Camarón, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-12-01",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "75 Aniversario Camarón",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/75-aniversario-camaron/1-12-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-12-02",
+      "line": "Marta Santos, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-12-02",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Marta Santos",
+          "detail": "Aquí no sobra nadie",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/marta-santos-aqu-no-sobra-nadie/2-12-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    },
+    {
+      "day": "2026-12-03",
+      "line": "Real Madrid – FC Barcelona, 20:45 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-12-03",
+          "time": "20:45",
+          "kind": "basketball",
+          "title": "Real Madrid – FC Barcelona",
+          "detail": "Jornada 15 Euroliga 26/27",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/real-madrid-vs-fc-barcelona-jornada-15-euroliga-26-27/3-12-2026/20:45",
+          "why": "crowds",
+          "size": 12000
+        }
+      ]
+    },
+    {
+      "day": "2026-12-04",
+      "line": "Bunbury, 20:30 at Movistar Arena (crowds)",
+      "events": [
+        {
+          "day": "2026-12-04",
+          "time": "20:30",
+          "kind": "concert",
+          "title": "Bunbury",
+          "detail": "Nuevas mutaciones Tour 2026",
+          "venue": "Movistar Arena",
+          "url": "https://www.movistararena.es/programacion/evento/bunbury-nuevas-mutaciones-tour-2026/4-12-2026/20:30",
+          "why": "crowds",
+          "size": 17000
+        }
+      ]
+    }
+  ],
+  "bigSources": [
+    {
+      "name": "Movistar Arena",
+      "url": "https://www.movistararena.es/programacion/?venue=arena",
+      "ok": true,
+      "fetchedAt": "2026-11-28T04:54:33.619Z"
+    },
+    {
+      "name": "Atlético de Madrid",
+      "url": "https://www.atleticodemadrid.com/calendario-completo-primer-equipo",
+      "ok": true,
+      "fetchedAt": "2026-11-28T04:54:33.619Z"
+    },
+    {
+      "name": "Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/calendario",
+      "ok": true,
+      "fetchedAt": "2026-11-28T04:54:33.619Z"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "url": "https://www.rayovallecano.es/partidos",
+      "ok": true,
+      "fetchedAt": "2026-11-28T04:54:33.619Z"
+    }
+  ],
+  "picks": [
+    {
+      "id": "madridenvivo:803426",
+      "title": "JAMIE WOON EN MADRID | SON ESTRELLA GALICIA – CAFÉ BERLÍN 360º",
+      "titleEn": "Jamie Woon in Madrid: Son Estrella Galicia at Café Berlín 360º",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-12-04T19:30:00",
+      "end": null,
+      "venue": "Café Berlín",
+      "area": null,
+      "url": "https://dice.fm/partner/tickets/event/92v86n-jamie-woon-en-madrid-son-estrella-galicia-caf-berln-360-4th-dec-caf-berln-madrid-tickets?dice_id=10641565&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1510199508325033663&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9KTkw2NLQwS7IwNLWvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBSLCa2OwAAAA%3D%3D&lng=es",
+      "minutesFromHome": 20,
+      "priceBand": "20-50",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Jamie Woon's electronic soul in Café Berlín, an intimate 360º room you can't see him in elsewhere.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [
+          "time"
+        ],
+        "page": "https://dice.fm/partner/tickets/event/92v86n-jamie-woon-en-madrid-son-estrella-galicia-caf-berln-360-4th-dec-caf-berln-madrid-tickets?dice_id=10641565&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1510199508325033663&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9KTkw2NLQwS7IwNLWvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBSLCa2OwAAAA%3D%3D&lng=es",
+        "why": "only a listing (dice.fm) could be read, not the organiser's own page"
+      },
+      "priceFrom": 20.03
+    },
+    {
+      "id": "instagram:Dfkdv80KGKY:0",
+      "title": "The Buzzos, The Diesel Dogs, The Velveins",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-12-05T00:00:00",
+      "end": "2026-12-05T23:59:00",
+      "venue": "Sala El Sol",
+      "area": null,
+      "url": "https://www.instagram.com/p/Dfkdv80KGKY/",
+      "minutesFromHome": 17,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Three rock-and-roll bands at El Sol — proper small-venue gig night with guitars and energy."
+    },
+    {
+      "id": "instagram:DfRggSZiB16:0",
+      "title": "«IMPACTA», Réquiem de Mozart por la Camerata Salzburg y Vox Luminis",
+      "titleEn": "IMPACTA, Mozart's Requiem by Camerata Salzburg and Vox Luminis",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-12-01T19:30:00",
+      "end": null,
+      "venue": "Auditorio Nacional de Madrid",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfRggSZiB16/",
+      "minutesFromHome": 18,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Camerata Salzburg and Vox Luminis perform Mozart's Requiem at the Auditorio Nacional.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "edit-madrid:lubiana-mazo:2026-11-28",
+      "title": "Lubiana, MAZO",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "belgian-cameroonian kora player",
+      "start": "2026-11-28T22:00:00",
+      "end": null,
+      "venue": "Sala Clamores",
+      "area": null,
+      "url": "https://dice.fm/event/92k5xo-lubiana-en-mazo-28th-nov-sala-clamores-madrid-tickets",
+      "minutesFromHome": 21,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Belgian-Cameroonian kora player layering ancestral melodies with city sounds, one night at Clamores.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://dice.fm/event/92k5xo-lubiana-en-mazo-28th-nov-sala-clamores-madrid-tickets",
+        "why": "only a listing (dice.fm) could be read, not the organiser's own page"
+      },
+      "priceFrom": 16.51
+    },
+    {
+      "id": "teatroscanal:105393",
+      "title": "Marlene Monteiro Freitas",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Theatre",
+      "subtitle": "dance theatre piece",
+      "start": "2026-11-27T20:00:00",
+      "end": "2026-11-28T23:59:59",
+      "venue": "Teatros del Canal",
+      "area": "Chamberí",
+      "url": "https://www.teatroscanal.com/espectaculo/not-marlene-monteiro-freitas/",
+      "minutesFromHome": 18,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Cape Verdean choreographer Marlene Monteiro Freitas, Spanish premiere at Teatros del Canal, closing night.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/not-marlene-monteiro-freitas-teatros-canal",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 9,
+      "priceTo": 35
+    },
+    {
+      "id": "madforswing:109342",
+      "title": "Swingin’ Saturdays – Lara Cano DJ by Social Swing",
+      "titleEn": null,
+      "type": "dance",
+      "kind": "Dance",
+      "subtitle": null,
+      "start": "2026-11-28T21:30:00",
+      "end": "2026-11-29T01:00:00",
+      "venue": "Jacometrezo 8",
+      "area": null,
+      "url": "https://www.madforswing.es/evento/swingin-saturdays-laracano-by-social-swing-28-noviembre/",
+      "minutesFromHome": 20,
+      "priceBand": "<20",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "Guest DJ Lara Cano on the decks at the weekly swing social, run ends soon.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "its site's robots.txt doesn't allow reading the page"
+      },
+      "priceFrom": 9
+    },
+    {
+      "id": "esmadrid:109689",
+      "title": "Collons!",
+      "titleEn": null,
+      "type": "theatre",
+      "kind": "Dance",
+      "subtitle": "participatory documentary theatre piece",
+      "start": "2026-11-28T18:00:00",
+      "end": "2026-11-29T00:00:00",
+      "venue": "Teatros del Canal",
+      "area": "Madrid",
+      "url": "https://www.esmadrid.com/agenda/collons-teatros-canal",
+      "minutesFromHome": 18,
+      "priceBand": "20-50",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Participatory documentary theatre on masculinities. Run in its last days at Teatros del Canal.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.esmadrid.com/agenda/collons-teatros-canal",
+        "why": "only a listing (esmadrid.com) could be read, not the organiser's own page"
+      },
+      "priceFrom": 20
+    },
+    {
+      "id": "edit-madrid:yuley-diaz-trio-impulso-jazzmadrid26:2026-11-29",
+      "title": "Yuley Díaz Trío, Impulso, JAZZMADRID26",
+      "titleEn": "",
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": "cuban pianist trio",
+      "start": "2026-11-29T21:00:00",
+      "end": "2026-11-29T23:59:00",
+      "venue": "Café Berlín",
+      "area": null,
+      "url": "https://mutick.com/e/entradas-yuley-diaz-madrid",
+      "minutesFromHome": 20,
+      "priceBand": "<20",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Cuban pianist in a trio at Café Berlín, part of JAZZMADRID26 — real small-venue jazz.",
+      "dateCheck": "corrected",
+      "check": {
+        "status": "corrected",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [
+          "time",
+          "price"
+        ],
+        "page": "https://mutick.com/e/entradas-yuley-diaz-madrid"
+      },
+      "priceFrom": 16
+    },
+    {
+      "id": "madriddestino:condeduque:actividades-fronteras-del-clima",
+      "title": "«Fronteras del Clima»",
+      "titleEn": "Climate Frontiers",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "climate migration photo exhibition",
+      "start": "2026-11-06T00:00:00",
+      "end": "2026-11-29T23:59:00",
+      "venue": "Conde Duque · Patio Central",
+      "area": "Centro",
+      "url": "https://www.condeduquemadrid.es/actividades/fronteras-del-clima",
+      "minutesFromHome": 26,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Climate crisis and forced displacement photo show at Conde Duque — run closing now.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.condeduquemadrid.es/actividades/fronteras-del-clima"
+      },
+      "priceFrom": 0,
+      "closedDays": [
+        1
+      ]
+    },
+    {
+      "id": "matadero:2026-11-28T16:00:00+01:00:OpenLAB The Mechanics of",
+      "title": "OpenLAB The Mechanics of Truth - Festival",
+      "titleEn": null,
+      "type": "festival",
+      "kind": "Festival",
+      "subtitle": null,
+      "start": "2026-11-28T16:00:00+01:00",
+      "end": null,
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/en/schedule/openlab-mechanics-truth-festival",
+      "minutesFromHome": 28,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Three-day festival on art, tech and truth — talks with artists, technologists and thinkers at Matadero.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.mataderomadrid.org/en/schedule/openlab-mechanics-truth-festival"
+      },
+      "priceFrom": 0
+    },
+    {
+      "id": "instagram:DfZop5FCtFp:0",
+      "title": "Inercia Sonora: Gigante Molino + Casa Lucas",
+      "titleEn": null,
+      "type": "gig",
+      "kind": "Concert",
+      "subtitle": null,
+      "start": "2026-11-30T20:30:00",
+      "end": null,
+      "venue": "Sala Galileo Galilei",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfZop5FCtFp/",
+      "minutesFromHome": 23,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Emerging Spanish indie at Sala Galileo Galilei with Inercia Sonora showcase — intimate room.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/DfZop5FCtFp/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "madforswing:10068014",
+      "title": "Swing en el Traveling",
+      "titleEn": "Swing in Traveling",
+      "type": "dance",
+      "kind": "Dance",
+      "subtitle": "beginner swing dance class",
+      "start": "2026-12-02T21:30:00",
+      "end": "2026-12-03T01:00:00",
+      "venue": "Traveling Bar",
+      "area": null,
+      "url": "https://www.madforswing.es/evento/swing-en-el-traveling-3-2018-11-07-5-2/2026-12-02/",
+      "minutesFromHome": 29,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Swing class and social dancing at Traveling Bar — a Madrid swing classic closing this week.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": null,
+        "why": "its site's robots.txt doesn't allow reading the page"
+      }
+    },
+    {
+      "id": "instagram:DfW-YWRTOcC:0",
+      "title": "NUMIX LAB 2026",
+      "titleEn": null,
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": "digital creation industry meeting",
+      "start": "2026-12-03T00:00:00",
+      "end": "2026-12-04T23:59:00",
+      "venue": "Institut français de Madrid",
+      "area": null,
+      "url": "https://www.instagram.com/p/DfW-YWRTOcC/",
+      "minutesFromHome": 19,
+      "priceBand": "unknown",
+      "booking": "unknown",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": false,
+      "note": "International digital creation and immersive experiences professional summit, two-day opening at Institut français.",
+      "dateCheck": "unconfirmed",
+      "check": {
+        "status": "unconfirmed",
+        "confirmed": [],
+        "fixed": [],
+        "page": "https://www.instagram.com/p/DfW-YWRTOcC/",
+        "why": "only an Instagram post, which can't be fetched"
+      }
+    },
+    {
+      "id": "galleries:thyssen:The Freudian Universe of Dalí",
+      "title": "The Freudian Universe of Dalí",
+      "titleEn": "",
+      "type": "exhibition",
+      "kind": "Exhibition",
+      "subtitle": null,
+      "start": "2026-10-20T00:00:00",
+      "end": "2027-01-24T23:59:00",
+      "venue": "Museo Thyssen-Bornemisza",
+      "area": "Paseo del Prado",
+      "url": "https://www.museothyssen.org/en/exhibitions/freudian-universe-dali",
+      "minutesFromHome": 25,
+      "priceBand": "unknown",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Dalí and Freud: how the artist's childhood and psychoanalysis shaped his surrealism at the Thyssen.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.museothyssen.org/en/exhibitions/freudian-universe-dali"
+      }
+    },
+    {
+      "id": "matadero:2026-11-28T19:00:00+01:00:OpenLAB 2026 | Internet ",
+      "title": "OpenLAB 2026 | Internet Archaeology: Tracing Truths in Digital Ruins – Talk by Sophie Publig",
+      "titleEn": null,
+      "type": "class",
+      "kind": "Talk",
+      "subtitle": null,
+      "start": "2026-11-28T19:00:00+01:00",
+      "end": "2026-11-28T19:00:00+01:00",
+      "venue": "Matadero Madrid",
+      "area": "Arganzuela",
+      "url": "https://www.mataderomadrid.org/en/schedule/openlab-2026-internet-archaeology-tracing-truths-digital-ruins-talk-sophie-publig",
+      "minutesFromHome": 28,
+      "priceBand": "free",
+      "booking": "on_sale",
+      "bookBy": null,
+      "bookSignal": null,
+      "english": true,
+      "note": "Internet archaeology talk at Matadero — digital tools, AI, and truth in ruins.",
+      "dateCheck": "verified",
+      "check": {
+        "status": "verified",
+        "confirmed": [
+          "date",
+          "time",
+          "price",
+          "link"
+        ],
+        "fixed": [],
+        "page": "https://www.mataderomadrid.org/en/schedule/openlab-2026-internet-archaeology-tracing-truths-digital-ruins-talk-sophie-publig"
+      },
+      "priceFrom": 0
+    }
+  ],
+  "deadlines": [],
+  "clusters": [
+    {
+      "date": "2026-11-28",
+      "count": 5,
+      "titles": [
+        "Lubiana, MAZO",
+        "Swingin’ Saturdays – Lara Cano DJ by Social Swing",
+        "Collons!",
+        "OpenLAB The Mechanics of Truth - Festival",
+        "OpenLAB 2026 | Internet Archaeology: Tracing Truths in Digital Ruins – Talk by Sophie Publig"
+      ]
+    }
+  ]
+}
